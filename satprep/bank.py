@@ -85,21 +85,39 @@ class Bank:
                     )
                     q.id = cur.lastrowid
 
-    def take_unused(self, section: str, skill: str, difficulty: str, qtype: str) -> Question | None:
+    def take_unused(self, section: str, skills: list[str] | None = None,
+                    difficulty: str | None = None, qtype: str | None = None) -> Question | None:
         """
         Get one saved question you have not seen yet, or None.
-        Marks it as served so you will not get it again.
+        Leave a filter as None to accept any value for it.
+        Marks the question as served so you will not get it again.
         """
+        sql = "SELECT * FROM questions WHERE section=? AND times_served=0"
+        args: list = [section]
+        if skills:
+            sql += f" AND skill IN ({','.join('?' * len(skills))})"
+            args += skills
+        if difficulty:
+            sql += " AND difficulty=?"
+            args.append(difficulty)
+        if qtype:
+            sql += " AND qtype=?"
+            args.append(qtype)
         with self.lock:
-            row = self.db.execute(
-                "SELECT * FROM questions WHERE section=? AND skill=? AND difficulty=?"
-                " AND qtype=? AND times_served=0 ORDER BY RANDOM() LIMIT 1",
-                (section, skill, difficulty, qtype),
-            ).fetchone()
+            row = self.db.execute(sql + " ORDER BY RANDOM() LIMIT 1", args).fetchone()
             if row is None:
                 return None
             self.mark_served([row["id"]])
             return _row_to_question(row)
+
+    def add_if_new(self, questions: list[Question]) -> int:
+        """Save questions that are not in the bank yet. Returns how many were added."""
+        with self.lock:
+            new = [q for q in questions if self.db.execute(
+                "SELECT 1 FROM questions WHERE prompt=? AND passage=?",
+                (q.prompt, q.passage)).fetchone() is None]
+            self.save_questions(new)
+            return len(new)
 
     def mark_served(self, ids: list[int], undo: bool = False) -> None:
         """Count these questions as seen (or, with undo=True, as unseen again)."""

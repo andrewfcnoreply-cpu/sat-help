@@ -1,0 +1,238 @@
+{
+  "section": "rw",
+  "questions": [
+    {
+      "skill": "Words in Context", "diff": "easy",
+      "passage": "Marine biologist Ana Ruiz found that the coral colonies she studied were remarkably ______: after a severe storm broke many of them apart, the fragments reattached to the reef and began growing again within weeks.",
+      "question": "@word",
+      "choices": ["resilient", "fragile", "colorful", "ancient"], "answer": "A",
+      "explain": "The text says the broken corals reattached and grew again soon after the storm, which shows they recover well from damage. 'Resilient' means able to recover quickly. 'Fragile' contradicts the recovery, and 'colorful' and 'ancient' have nothing to do with what the text describes."
+    },
+    {
+      "skill": "Words in Context", "diff": "easy",
+      "passage": "Because the town's historical society wanted visitors to see the old mill exactly as it looked in 1880, volunteers worked to ______ every detail, from the hand-cut beams to the original iron hinges.",
+      "question": "@word",
+      "choices": ["preserve", "modernize", "conceal", "exaggerate"], "answer": "A",
+      "explain": "The goal is for the mill to look exactly as it did in 1880, so the volunteers keep the details as they were: they preserve them. 'Modernize' would change the 1880 look, 'conceal' would hide the details visitors are meant to see, and 'exaggerate' would distort them."
+    },
+    {
+      "skill": "Words in Context", "diff": "easy",
+      "passage": "Although the documentary covers a complicated subject, its narration is so ______ that even viewers with no background in economics can follow its argument.",
+      "question": "@word",
+      "choices": ["clear", "lengthy", "technical", "hesitant"], "answer": "A",
+      "explain": "Viewers with no background can follow the argument, so the narration must be easy to understand, or clear. 'Technical' narration would make it harder for beginners, and 'lengthy' and 'hesitant' don't explain why beginners can follow along."
+    },
+    {
+      "skill": "Words in Context", "diff": "medium",
+      "passage": "Novelist Teodora Vance rarely explains her characters' feelings directly. Instead, she ______ them through small gestures, such as a hand hesitating before opening a letter, leaving readers to piece together what the characters feel.",
+      "question": "@word",
+      "choices": ["suggests", "announces", "dismisses", "forgets"], "answer": "A",
+      "explain": "Vance doesn't state feelings outright; she hints at them through gestures, and readers must piece the feelings together. 'Suggests' fits this indirect approach. 'Announces' means stating directly, which the text says she rarely does. 'Dismisses' and 'forgets' don't fit an author who carefully conveys feelings through details."
+    },
+    {
+      "skill": "Words in Context", "diff": "medium",
+      "passage": "Some historians have argued that the printing press immediately transformed European society. Historian Lena Okafor offers a more ______ view, noting that for decades after its invention, most people still learned news by word of mouth.",
+      "question": "@word",
+      "choices": ["measured", "enthusiastic", "popular", "confusing"], "answer": "A",
+      "explain": "Okafor's view is more cautious than the claim of immediate transformation: she points out that change was slow. A 'measured' view is careful and restrained. 'Enthusiastic' would suggest she makes even bigger claims, and nothing in the text says her view is 'popular' or 'confusing.'"
+    },
+    {
+      "skill": "Words in Context", "diff": "medium",
+      "passage": "Critics praised the city council's report as ______, noting that it addressed every aspect of the housing shortage, from rising construction costs to the effects of new zoning rules.",
+      "question": "@word",
+      "choices": ["comprehensive", "selective", "speculative", "premature"], "answer": "A",
+      "explain": "The report 'addressed every aspect' of the problem, which means it was comprehensive, or complete in scope. 'Selective' means the opposite, choosing only some parts. Nothing indicates the report was 'speculative' (based on guesses) or 'premature' (too early)."
+    },
+    {
+      "skill": "Words in Context", "diff": "medium",
+      "passage": "In the 1930s, engineers in the region viewed the Calder River mainly as a source of hydroelectric power. Today, planners ______ a wider range of uses, considering the river's value for recreation, wildlife habitat, and drinking water.",
+      "question": "@word",
+      "choices": ["weigh", "ignore", "restrict", "invent"], "answer": "A",
+      "explain": "Today's planners are 'considering' several kinds of value, so they weigh, or take into account, many uses. 'Ignore' contradicts 'considering.' 'Restrict' doesn't fit a wider range of uses, and planners don't 'invent' recreation or drinking water."
+    },
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "The poet's early work was dismissed by some reviewers as merely ______, a collection of clever tricks with rhyme and rhythm that lacked deeper feeling.",
+      "question": "@word",
+      "choices": ["ornamental", "profound", "candid", "austere"], "answer": "A",
+      "explain": "The reviewers saw the poems as surface decoration, clever tricks without depth. 'Ornamental' means decorative rather than substantial. 'Profound' means deep, the opposite of their criticism. 'Candid' means frank and honest, which isn't the complaint, and 'austere' means plain and severe, which clashes with 'clever tricks.'"
+    },
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "Researchers had expected the new antibiotic to work against many kinds of bacteria, but in trials its effects proved ______: it killed a single species of bacteria and left all others unharmed.",
+      "question": "@word",
+      "choices": ["circumscribed", "pervasive", "erratic", "negligible"], "answer": "A",
+      "explain": "The drug worked against only one species, so its effects were limited in range. 'Circumscribed' means restricted within limits. 'Pervasive' means widespread, the opposite. 'Erratic' means unpredictable, which the text doesn't describe. 'Negligible' is tempting, but the drug did kill one species, so its effect wasn't insignificant, just narrow."
+    },
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "Though the mayor's speech was widely described as conciliatory, a close reading reveals that she ______ few real concessions to her opponents; nearly every apparent compromise restated a position she had held all along.",
+      "question": "@word",
+      "choices": ["yielded", "demanded", "disguised", "inspired"], "answer": "A",
+      "explain": "The point is that the mayor gave up very little: her 'compromises' were old positions. To yield a concession is to give one up. She wouldn't 'demand' concessions to her opponents, and 'disguised' and 'inspired' don't describe giving up ground."
+    },
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "Economist Farid Haddad cautions that the evidence on remote work remains ______: studies conducted only a few months apart have reached opposite conclusions about its effect on productivity.",
+      "question": "@word",
+      "choices": ["equivocal", "conclusive", "obsolete", "trivial"], "answer": "A",
+      "explain": "Studies disagree with each other, so the evidence points in more than one direction. 'Equivocal' means open to more than one interpretation. 'Conclusive' is the opposite. Recent studies aren't 'obsolete,' and Haddad's caution shows he doesn't consider the question 'trivial.'"
+    },
+
+    {
+      "skill": "Text Structure and Purpose", "diff": "easy",
+      "passage": "Many people assume that deserts are nearly lifeless, but the Sonoran Desert supports thousands of plant and animal species. The saguaro cactus alone provides food and shelter for many of them. Its flowers feed bats and insects in spring, and woodpeckers carve nesting holes in its trunk that other birds later reuse.",
+      "question": "@purpose",
+      "choices": ["To challenge a common assumption about deserts by describing the variety of life in one desert", "To explain how saguaro cacti store water during dry seasons", "To compare the Sonoran Desert with other deserts around the world", "To argue that woodpeckers cause serious damage to saguaro cacti"], "answer": "A",
+      "explain": "The text opens with the belief that deserts are lifeless and then gives examples of the many species the Sonoran Desert supports. Water storage isn't mentioned, no other deserts are compared, and the woodpecker holes are presented as useful to other birds, not as damage."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "easy",
+      "passage": "Mira had practiced the sonata every evening for a month. When she sat down at the piano in the crowded hall, her hands trembled above the keys. <u>She closed her eyes and pictured her small kitchen at home, where her only audience had been the ticking clock.</u> When she opened them, she began to play, and her hands were steady.",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "choices": ["It shows how Mira calms herself before she begins to perform.", "It explains why Mira chose to perform this particular sonata.", "It suggests that Mira's family disapproves of her music.", "It describes the concert hall where the performance takes place."], "answer": "A",
+      "explain": "Before the sentence, Mira's hands tremble; after it, they are steady. Picturing her quiet kitchen is how she calms her nerves. The sentence says nothing about why she chose the piece or about her family, and it describes her kitchen, not the hall."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "easy",
+      "passage": "For years, commuters in the city of Larkspur complained that crossing the river by car took too long. In 2019, the city turned one lane of the main bridge into a protected bike lane and added a ferry service. Within two years, average crossing times for drivers had fallen, because many former drivers had switched to cycling or taking the ferry.",
+      "question": "@structure",
+      "choices": ["It presents a problem, describes the city's response, and then reports a result of that response.", "It describes a proposal and then explains why the proposal was rejected.", "It compares the traffic policies of two different cities.", "It presents a theory about commuting and then offers evidence against it."], "answer": "A",
+      "explain": "The text moves from a problem (slow crossings) to a response (bike lane and ferry) to a result (shorter crossing times). The plan was carried out, not rejected; only one city is discussed; and no theory is tested."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "medium",
+      "passage": "Paleontologists long assumed that feathers first evolved to help animals fly. However, fossils of small dinosaurs that could not fly show that feathers appeared millions of years before flight did. These early feathers may instead have helped the animals stay warm or attract mates.",
+      "question": "@purpose",
+      "choices": ["To present evidence that challenges an assumption about why feathers first evolved", "To describe the steps by which dinosaurs gradually learned to fly", "To argue that feathers evolved mainly to help animals attract mates", "To explain how fossils of small dinosaurs are discovered and dated"], "answer": "A",
+      "explain": "The text states an old assumption (feathers evolved for flight) and then gives fossil evidence that feathers came first. It doesn't describe how flight developed. Attracting mates is offered only as one possibility, along with warmth, so the text doesn't argue for it. Fossil discovery methods aren't discussed."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "medium",
+      "passage": "Composer Hana Ito often builds her pieces from recordings of everyday sounds. <u>In one work, the clatter of dishes in a restaurant kitchen gradually becomes a steady rhythm for the string section.</u> Ito says she wants listeners to notice the music already present in ordinary life.",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "choices": ["It gives an example of the approach to composing described in the previous sentence.", "It explains why Ito eventually stopped using recorded sounds.", "It introduces a criticism that some listeners have made of Ito's work.", "It describes the restaurant where Ito worked before she became a composer."], "answer": "A",
+      "explain": "The first sentence says Ito builds music from everyday sounds, and the underlined sentence shows one specific case: kitchen clatter becoming rhythm. Nothing suggests she stopped using recordings, no criticism appears, and the text never says she worked in a restaurant."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "medium",
+      "passage": "Some historians attribute the decline of the medieval trading town of Brevik to a series of fires. Archaeologist Sun-Hee Park acknowledges that the fires caused serious damage. But she points out that the town's harbor was filling with sand during the same period, making it hard for large ships to dock. Park concludes that the silting of the harbor, not the fires, was the main reason merchants left.",
+      "question": "@structure",
+      "choices": ["It presents an explanation offered by some historians, notes a researcher's partial agreement, and then gives her alternative explanation.", "It traces the founding, growth, and decline of a town in chronological order.", "It presents two explanations for a town's decline and concludes that neither is supported by evidence.", "It summarizes a debate among historians and argues that further excavation is needed to settle it."], "answer": "A",
+      "explain": "The text gives the fire explanation, then says Park agrees the fires did damage (partial agreement), then presents her view that the harbor was the main cause. It doesn't cover the town's founding, it doesn't reject both explanations, and it never calls for more excavation."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "medium",
+      "passage": "The following text is from a short story.\nOld Mr. Abernathy's garden was the pride of Elm Street. Every morning he walked its rows with a notebook, recording which tomatoes had ripened and which roses had opened. Neighbors who passed by noticed that he talked to the plants, quietly, as if catching up with old friends.",
+      "question": "@purpose",
+      "choices": ["To portray Mr. Abernathy's careful and affectionate attention to his garden", "To explain how Mr. Abernathy became a professional gardener", "To suggest that Mr. Abernathy's neighbors find him unfriendly", "To describe a conflict between Mr. Abernathy and his neighbors"], "answer": "A",
+      "explain": "Details like the daily notebook and talking to plants 'as if catching up with old friends' show both care and affection. The text never mentions a gardening career, and the neighbors simply notice his habits; there's no sign of unfriendliness or conflict."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "Bioengineer Kofi Mensah has designed bricks grown from fungus and farm waste. The bricks are light, insulate well, and break down harmlessly at the end of their use. Mensah is quick to note, however, that they cannot yet bear the heavy loads that concrete supports, so for now they are suited to interior walls and temporary structures rather than foundations.",
+      "question": "@purpose",
+      "choices": ["To describe a new building material and note both its advantages and a current limit on its use", "To argue that fungal bricks should replace concrete in most kinds of construction", "To explain the chemical process by which fungi break down farm waste", "To compare the cost of fungal bricks with the cost of concrete"], "answer": "A",
+      "explain": "The text lists the bricks' benefits and then, with 'however,' explains that they can't yet carry heavy loads. That balance rules out the claim that they should replace concrete widely, which Mensah himself says they can't yet do. No chemistry or costs are discussed."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "Linguists once believed that babies learn words mainly from speech directed at them. <u>Yet in a recent study, toddlers learned the names of new objects just as well when they overheard two adults talking about the objects as when an adult spoke to them directly.</u> This finding suggests that children absorb language from conversations around them, not only from speech aimed at them.",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "choices": ["It presents a finding that complicates an earlier belief about how children learn words.", "It provides support for the belief that linguists held in the past.", "It describes a research method that was later shown to be flawed.", "It states the text's final conclusion about how toddlers pay attention."], "answer": "A",
+      "explain": "The sentence begins with 'Yet,' signaling a contrast with the old belief: toddlers learned overheard words just as well. That complicates the belief rather than supporting it. Nothing says the method was flawed, and the conclusion comes in the last sentence, not the underlined one."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "The following text is from a short story.\nFrom the hilltop, the village looked exactly as Teresa remembered it: the red roofs, the church tower, the river curving like a silver ribbon. But as she walked down into the streets, she saw that the bakery had become a phone shop, and the faces in the square belonged to strangers. By the time she reached her grandmother's house, she understood that the village of her memory existed only from a distance.",
+      "question": "@structure",
+      "choices": ["It describes a distant view that matches a character's memory, then shows that a closer look reveals changes, leading to a realization.", "It describes a character's journey and then flashes back to her childhood in the village.", "It contrasts two characters' different memories of the same village.", "It presents a character's plan and then explains why she gives it up."], "answer": "A",
+      "explain": "From the hilltop the village matches Teresa's memory; up close, she notices changes; finally, she realizes her memory only holds from far away. There is no flashback, only one character's memory is shown, and no plan is described."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "Most studies of urban heat rely on temperatures measured at a few weather stations. Climatologist Priya Nair argues that this approach misses important variation: on a summer afternoon, the air above a tree-lined street can be several degrees cooler than the air above a parking lot a single block away. Nair's team has therefore installed hundreds of small sensors across neighborhoods to map heat street by street.",
+      "question": "@purpose",
+      "choices": ["To explain why a researcher adopted a more detailed method of measuring heat in cities", "To argue that weather stations should be removed from urban areas", "To describe the process by which trees lower air temperatures", "To compare summer temperatures in several different cities"], "answer": "A",
+      "explain": "The text explains a limit of the usual method (it misses block-to-block differences) and says Nair's team 'therefore' installed many sensors. Nair says weather stations miss variation, not that they should be removed. Trees appear only as an example, and only one city's streets are discussed."
+    },
+
+    {
+      "skill": "Cross-Text Connections", "diff": "easy",
+      "passage": "Text 1\nMany nutrition guides call breakfast the most important meal of the day. They warn that students who skip breakfast have trouble concentrating in school and score lower on tests.<br><br>Text 2\nNutrition researcher Dana Kowalski compared students who skipped breakfast but ate a balanced lunch with students who ate both meals. The two groups scored about the same on afternoon tests. Kowalski concludes that the quality of a student's overall diet matters more than whether breakfast in particular is eaten.",
+      "question": "Based on the texts, how would Kowalski (Text 2) most likely respond to the claim in Text 1 that skipping breakfast harms students' test performance?",
+      "choices": ["By suggesting that overall diet quality may matter more than eating breakfast specifically", "By agreeing and recommending that students eat larger breakfasts", "By arguing that students should eat only one meal each day", "By claiming that concentration cannot be measured with tests"], "answer": "A",
+      "explain": "Kowalski found that students who skipped breakfast but ate a good lunch did just as well, and she concludes that overall diet quality matters more. She doesn't agree with Text 1's warning, doesn't recommend one meal a day, and uses tests herself, so she wouldn't reject them."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "easy",
+      "passage": "Text 1\nSupporters of rental electric scooters say the scooters take cars off city streets. Because each scooter ride is a car trip that didn't happen, they argue, cities should expand scooter programs to cut traffic.<br><br>Text 2\nA survey of scooter riders in three cities found that most riders would have walked or taken a bus if scooters had not been available. Only about one ride in ten replaced a trip that would otherwise have been made by car.",
+      "question": "Based on the texts, how would the author of Text 2 most likely respond to the reasoning in Text 1?",
+      "choices": ["By pointing out that most scooter rides do not actually replace car trips", "By agreeing that scooter programs greatly reduce car traffic", "By arguing that buses are more dangerous than scooters", "By claiming that few people in cities use rental scooters"], "answer": "A",
+      "explain": "Text 1 assumes each scooter ride replaces a car trip. Text 2's survey shows only about one ride in ten did, so it undercuts that assumption. Text 2 doesn't agree with Text 1, says nothing about safety, and doesn't discuss how many people ride."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "easy",
+      "passage": "Text 1\nFoxes that live in cities are often described as shy animals that avoid people just as rural foxes do. On this view, urban foxes have simply learned to stay hidden.<br><br>Text 2\nBiologist Rhys Calloway placed unfamiliar objects, such as plastic toys, near fox dens in cities and in the countryside. City foxes approached and investigated the objects much sooner than country foxes did. Calloway suggests that life in cities may favor bolder behavior.",
+      "question": "Based on the texts, how would Calloway (Text 2) most likely respond to the description of urban foxes in Text 1?",
+      "choices": ["By presenting evidence that urban foxes may be bolder than that description suggests", "By agreeing that urban and rural foxes behave in the same way", "By arguing that foxes should be removed from cities", "By claiming that rural foxes are bolder than urban foxes"], "answer": "A",
+      "explain": "Text 1 calls urban foxes shy, like rural ones. Calloway found that city foxes approached new objects sooner, which suggests boldness. His results show a difference between the groups, he says nothing about removing foxes, and he found the rural foxes were more cautious, not bolder."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "medium",
+      "passage": "Text 1\nThe bicycle craze of the 1890s gave women in the United States a new kind of independence. With a bicycle, a woman could travel without a chaperone or a horse, and many observers at the time saw the bicycle as a symbol of women's growing freedom.<br><br>Text 2\nHistorian Clara Mendes agrees that bicycles expanded many women's freedom of movement. But she notes that a new bicycle in the 1890s cost several months' wages for a factory worker. As a result, Mendes argues, the independence the bicycle offered was enjoyed mostly by middle-class and wealthy women.",
+      "question": "Based on the texts, how would Mendes (Text 2) most likely respond to the claim in Text 1?",
+      "choices": ["She would agree with it but add that its benefits reached mainly wealthier women.", "She would reject it because bicycles did not change women's lives at all.", "She would argue that factory workers were the main group to benefit from bicycles.", "She would claim that bicycles were not popular in the United States in the 1890s."], "answer": "A",
+      "explain": "Mendes 'agrees' that bicycles expanded freedom but adds that high prices limited this mostly to middle-class and wealthy women. So she accepts the claim with a qualification. She doesn't reject it, she says factory workers were largely priced out, and she doesn't question the bicycle's popularity."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "medium",
+      "passage": "Text 1\nInvasive plants crowd out native species, so removing them is one of the best ways to restore a damaged ecosystem. Wherever invasive plants are cleared, native plants can return.<br><br>Text 2\nWhen ecologist Inés Barros's team removed an invasive reed from a coastal wetland, they expected native grasses to come back. Instead, the bare soil was quickly taken over by a different invasive plant. Barros now recommends that removal be paired with immediate replanting of native species.",
+      "question": "Based on the texts, how would Barros (Text 2) most likely respond to the claim in Text 1 that native plants can return wherever invasive plants are cleared?",
+      "choices": ["By cautioning that removal alone may not allow native plants to return unless other steps are taken", "By agreeing that clearing invasive plants always restores an ecosystem", "By arguing that invasive plants should never be removed from wetlands", "By claiming that native grasses cannot grow in coastal wetlands"], "answer": "A",
+      "explain": "Barros's experience showed that clearing one invader let another take over, so she recommends replanting natives too. That challenges the idea that removal alone works. She still removes invasives, so she doesn't oppose removal, and she expected native grasses to grow there, so she wouldn't say they can't."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "medium",
+      "passage": "Text 1\nCritic Owen Price finds that the novel <i>Seven Harbors</i>, told by four narrators who contradict one another, is needlessly confusing. Readers, he argues, are left unsure what actually happened and struggle to care about the story.<br><br>Text 2\nCritic Amara Eze argues that the contradictions among the narrators of <i>Seven Harbors</i> are the novel's point. By forcing readers to compare competing versions of events, the book shows how memory shapes the stories people tell about themselves.",
+      "question": "Based on the texts, how would Eze (Text 2) most likely respond to Price's criticism in Text 1?",
+      "choices": ["By arguing that the uncertainty Price describes serves the novel's purpose", "By agreeing that the novel would be better with a single narrator", "By claiming that the narrators of the novel do not actually contradict one another", "By suggesting that readers care more about the setting than about the plot"], "answer": "A",
+      "explain": "Price says the conflicting narrators leave readers unsure what happened. Eze says this is deliberate: comparing versions is how the novel explores memory. So she sees the uncertainty as purposeful. She doesn't want a single narrator, she accepts that the narrators contradict each other, and she doesn't discuss setting."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "medium",
+      "passage": "Text 1\nRed dwarfs, the most common stars in our galaxy, frequently release powerful flares of radiation. For this reason, many astronomers have concluded that planets orbiting red dwarfs are unlikely to support life, since the flares would strip away their atmospheres and damage any living things on the surface.<br><br>Text 2\nNew computer models by astrophysicist Jonas Lindqvist suggest that a planet with a thick atmosphere could keep much of its air through repeated flares, and that the atmosphere could block most harmful radiation from reaching the surface.",
+      "question": "Based on the texts, how would Lindqvist (Text 2) most likely respond to the conclusion described in Text 1?",
+      "choices": ["He would suggest that it may be too pessimistic for planets with thick atmospheres.", "He would agree that no planet orbiting a red dwarf could support life.", "He would argue that red dwarfs rarely produce flares.", "He would claim that red dwarfs are less common than astronomers believe."], "answer": "A",
+      "explain": "Text 1 says flares likely make such planets lifeless. Lindqvist's models show a thick atmosphere could survive and shield the surface, so the conclusion may be too pessimistic for those planets. He doesn't agree with it, and he doesn't dispute that red dwarfs flare often or are common."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nIn trials of a four-day workweek, dozens of companies reported that productivity stayed the same or rose while employees reported less stress. These results, economist Lauren Pike argues, show that the four-day week should be adopted across the economy.<br><br>Text 2\nEconomist Tomasz Wolski notes that the companies in these trials chose to take part, and most of their leaders said beforehand that they expected the change to succeed. Firms that doubted the idea, or whose work could not easily be reorganized, mostly stayed out of the trials.",
+      "question": "Based on the texts, how would Wolski (Text 2) most likely respond to Pike's argument in Text 1?",
+      "choices": ["By suggesting that Pike's conclusion may rest on companies that aren't typical of the economy as a whole", "By arguing that the trials showed productivity fell under a four-day week", "By agreeing that every company should switch to a four-day week right away", "By claiming that employees' stress levels were not measured in the trials"], "answer": "A",
+      "explain": "Wolski points out that the trial companies volunteered, expected success, and could reorganize easily, unlike the firms that stayed out. That suggests the results might not apply to the whole economy. He doesn't dispute the productivity results themselves, doesn't endorse Pike's plan, and says nothing about how stress was measured."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nMusicologist Henry Akers argues that the lasting popularity of certain classical pieces is the clearest proof of their quality. Audiences across centuries, he reasons, would not keep returning to works that lacked real artistic merit.<br><br>Text 2\nMusicologist Yuki Sato observes that orchestras tend to program pieces audiences already know, because familiar works sell tickets. Listeners, in turn, tend to enjoy music more after hearing it several times. Popular pieces, Sato concludes, may stay popular partly because they are played so often.",
+      "question": "Based on the texts, how would Sato (Text 2) most likely respond to Akers's reasoning in Text 1?",
+      "choices": ["By questioning whether lasting popularity is reliable evidence of a piece's quality", "By agreeing that popularity is the best measure of artistic merit", "By arguing that orchestras should stop performing well-known pieces", "By claiming that audiences dislike hearing the same piece more than once"], "answer": "A",
+      "explain": "Akers treats popularity as proof of quality. Sato describes a cycle (familiar pieces get programmed, and familiarity increases enjoyment) that could keep a piece popular for reasons other than merit. That questions Akers's reasoning. Sato doesn't agree with him, makes no recommendation to orchestras, and says listeners enjoy repeated hearings."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nA study found that children who took music lessons scored higher on memory tests than children who did not. The researchers concluded that musical training strengthens memory.<br><br>Text 2\nPsychologist Nadia Farouk notes that children who take music lessons often come from families with more time and money, advantages that may also support memory. When her team randomly assigned children either to music lessons or to no lessons, the two groups' memory scores ended up nearly the same.",
+      "question": "Based on the texts, how would Farouk (Text 2) most likely respond to the conclusion in Text 1?",
+      "choices": ["By suggesting that the difference in memory scores may reflect other differences between the children rather than the lessons", "By agreeing that music lessons are the main cause of stronger memory in children", "By arguing that memory tests are not useful for studying children", "By claiming that children from wealthier families perform worse on memory tests"], "answer": "A",
+      "explain": "Farouk points to family advantages that could explain the higher scores, and her randomized study, which separates lessons from family background, found almost no difference. So the original gap may come from other factors. She doesn't credit lessons as the cause, she uses memory tests herself, and she suggests family advantages may help memory, not hurt it."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nArchaeologist Marcus Hale argues that a large stone building at an ancient site was a temple. His main evidence is that the building's doorway faces the exact point where the sun rises on the winter solstice, an alignment he believes had religious meaning.<br><br>Text 2\nArchaeologist Leila Haddad has surveyed dozens of ordinary houses from the same culture. Most of their doorways also face the winter-solstice sunrise. Haddad suggests the builders chose this direction to let in as much light and warmth as possible during the coldest months.",
+      "question": "Based on the texts, how would Haddad (Text 2) most likely respond to Hale's argument in Text 1?",
+      "choices": ["By noting that the alignment alone is weak evidence that the building had a religious purpose", "By agreeing that the alignment proves the building was a temple", "By arguing that the culture's builders did not know when the solstice occurred", "By claiming that the stone building was actually an ordinary house"], "answer": "A",
+      "explain": "If ordinary houses share the same alignment, probably for light and warmth, then the alignment doesn't by itself show the building was religious. Haddad's survey weakens Hale's evidence without proving what the building was, so she wouldn't claim it was a house. Her explanation assumes the builders did know the sun's direction in winter."
+    }
+  ]
+}

@@ -10,13 +10,14 @@ scores, which is why the real SAT feels hard when you are doing well.
 
 from __future__ import annotations
 
+import os
 import random
 
 from . import config
 from .bank import Bank
-from .generator import Slot, generate
+from .generator import GenerationError, Slot, generate
 from .models import ModuleState, Question
-from .skills import CATALOG, RW_ORDER
+from .skills import CATALOG, RW_ORDER, domain_of
 
 # What share of easy / medium / hard questions each kind of module gets.
 DIFFICULTY_MIX = {
@@ -86,21 +87,62 @@ def order_questions(section: str, questions: list[Question]) -> list[Question]:
     return sorted(questions, key=key)
 
 
+def has_api_key() -> bool:
+    return bool(os.environ.get("ANTHROPIC_API_KEY"))
+
+
+def _from_bank(bank: Bank, slot: Slot, flexible: bool) -> Question | None:
+    """
+    Find a saved question for a slot, trying the closest match first:
+      1. the exact skill, difficulty, and type
+      2. another skill from the same domain (same difficulty and type)
+    With flexible=True (no API key, so we can't write new questions), also:
+      3. any skill in the section at the same difficulty
+      4. the same skill at any difficulty, then anything left in the section
+    """
+    domain = domain_of(slot.section, slot.skill)
+    domain_skills = next(s for d, _w, s in CATALOG[slot.section] if d == domain)
+    tries = [
+        dict(skills=[slot.skill], difficulty=slot.difficulty, qtype=slot.qtype),
+        dict(skills=domain_skills, difficulty=slot.difficulty, qtype=slot.qtype),
+    ]
+    if flexible:
+        tries += [
+            dict(difficulty=slot.difficulty),
+            dict(skills=[slot.skill]),
+            dict(),
+        ]
+    for filters in tries:
+        q = bank.take_unused(slot.section, **filters)
+        if q:
+            return q
+    return None
+
+
 def build_module(bank: Bank, section: str, number: int, level: str, short: bool,
                  on_progress=None) -> ModuleState:
     """
     Make a ready-to-take module. Uses saved, unseen questions from the bank
     first and asks Claude only for what is missing. New questions are saved
-    to the bank right away.
+    to the bank right away. Without an API key, it uses only saved questions.
     """
     count, minutes = module_size(section, short)
     slots = plan_slots(section, count, level)
+    can_generate = has_api_key()
 
     from_bank: list[Question] = []
     needed: list[Slot] = []
     for slot in slots:
-        q = bank.take_unused(slot.section, slot.skill, slot.difficulty, slot.qtype)
+        q = _from_bank(bank, slot, flexible=not can_generate)
         (from_bank.append(q) if q else needed.append(slot))
+
+    if needed and not can_generate:
+        bank.mark_served([q.id for q in from_bank], undo=True)
+        raise GenerationError(
+            f"There aren't enough unseen saved questions for this module "
+            f"({len(needed)} more needed), and no API key is set to write new ones. "
+            f"On the home screen, choose 'Make seen questions available again', "
+            f"pick a shorter test, or add an API key.")
 
     if on_progress:
         on_progress(len(from_bank), count)

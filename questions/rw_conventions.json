@@ -1,0 +1,160 @@
+{
+  "section": "rw",
+  "questions": [
+    {
+      "skill": "Boundaries", "diff": "easy",
+      "passage": "The museum's newest exhibit features three ______ a jade necklace, a bronze mirror, and a painted silk fan.",
+      "question": "@conventions",
+      "choices": ["artifacts:", "artifacts,", "artifacts;", "artifacts"], "answer": "A",
+      "explain": "A colon can introduce a list that explains what came before it, here the three artifacts. A comma or no punctuation would run the list into the sentence awkwardly, and a semicolon must join two complete sentences, but 'a jade necklace, a bronze mirror...' isn't one."
+    },
+    {
+      "skill": "Boundaries", "diff": "easy",
+      "passage": "Maya finished her science project two days ______ she spent the extra time practicing her presentation.",
+      "question": "@conventions",
+      "choices": ["early, so", "early so,", "early,", "early"], "answer": "A",
+      "explain": "Both halves are complete sentences. They can be joined with a comma plus a conjunction like 'so.' A comma alone creates a comma splice, no punctuation creates a run-on, and 'so,' with the comma after it puts the comma in the wrong place."
+    },
+    {
+      "skill": "Boundaries", "diff": "easy",
+      "passage": "The hikers reached the summit just after ______ the view of the valley below was covered in morning fog.",
+      "question": "@conventions",
+      "choices": ["sunrise. The", "sunrise the", "sunrise, the", "sunrise and, the"], "answer": "A",
+      "explain": "'The hikers reached the summit just after sunrise' and 'The view... was covered in morning fog' are both complete sentences, so a period separates them correctly. No punctuation creates a run-on, a comma alone creates a comma splice, and 'and, the' puts the comma in the wrong place."
+    },
+    {
+      "skill": "Boundaries", "diff": "medium",
+      "passage": "Astronomer Vera Rubin's measurements of how fast stars orbit within ______ provided some of the strongest early evidence for dark matter.",
+      "question": "@conventions",
+      "choices": ["galaxies", "galaxies,", "galaxies;", "galaxies:"], "answer": "A",
+      "explain": "The subject is 'Astronomer Vera Rubin's measurements of how fast stars orbit within galaxies,' and the verb is 'provided.' No punctuation should separate a subject from its verb, so no punctuation is correct. A comma, semicolon, or colon would split the subject from the verb."
+    },
+    {
+      "skill": "Boundaries", "diff": "medium",
+      "passage": "The architect designed the library with tall windows on its north ______ an arrangement that fills the reading rooms with steady, indirect light throughout the day.",
+      "question": "@conventions",
+      "choices": ["side,", "side;", "side.", "side"], "answer": "A",
+      "explain": "'An arrangement that fills the reading rooms...' is a phrase describing the window design, not a complete sentence. A comma attaches it correctly. A semicolon or period would leave it as a fragment, and no punctuation runs the description into the noun 'side.'"
+    },
+    {
+      "skill": "Boundaries", "diff": "medium",
+      "passage": "The chef's signature dish combines ingredients from three ______ Mexican chiles, Japanese miso, and Italian cheese.",
+      "question": "@conventions",
+      "choices": ["cuisines:", "cuisines;", "cuisines, and", "cuisines that"], "answer": "A",
+      "explain": "The list explains what the three cuisines' ingredients are, so a colon introducing it is correct. A semicolon needs complete sentences on both sides. 'And' and 'that' create sentences that don't make grammatical sense with the list that follows."
+    },
+    {
+      "skill": "Boundaries", "diff": "medium",
+      "passage": "Ernest Shackleton's ship, the <i>Endurance</i>, became trapped in Antarctic sea ice in ______ despite the loss of the ship, every member of the crew eventually survived.",
+      "question": "@conventions",
+      "choices": ["1915;", "1915,", "1915", "1915 and,"], "answer": "A",
+      "explain": "Both parts are complete sentences, so a semicolon can join them. A comma alone creates a comma splice, no punctuation creates a run-on, and 'and,' places the comma after the conjunction instead of before it."
+    },
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "Many of the city's oldest ______ built in the 1880s with bricks made from local clay, still stand along the riverfront.",
+      "question": "@conventions",
+      "choices": ["warehouses,", "warehouses", "warehouses;", "warehouses:"], "answer": "A",
+      "explain": "'Built in the 1880s with bricks made from local clay' is extra information about the warehouses, set off by commas. The comma after 'clay' needs a matching comma after 'warehouses.' Leaving it out breaks the pair, and a semicolon or colon would split the subject from its verb, 'stand.'"
+    },
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "In her study of urban gardens, sociologist Thandiwe ______ found that neighbors who gardened together were more likely to help one another in emergencies.",
+      "question": "@conventions",
+      "choices": ["Nkosi", "Nkosi,", "Nkosi;", "Nkosi:"], "answer": "A",
+      "explain": "'Sociologist Thandiwe Nkosi' works like a single name; the title isn't extra information that can be removed, so no commas are needed. A comma after 'Nkosi' would split the subject from the verb 'found.' A semicolon or colon would also wrongly separate them."
+    },
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "The team spent years searching for the shipwreck; when they finally found ______ the hull was nearly intact beneath a layer of sand.",
+      "question": "@conventions",
+      "choices": ["it,", "it;", "it.", "it"], "answer": "A",
+      "explain": "'When they finally found it' is a dependent clause that introduces the main clause 'the hull was nearly intact.' An introductory clause is followed by a comma. A semicolon or period would leave 'when they finally found it' as a fragment, and no punctuation makes it read as 'found it the hull.'"
+    },
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "Monarch butterflies cannot survive freezing ______ each fall, millions of them travel thousands of kilometers south to spend the winter in the mountain forests of central Mexico.",
+      "question": "@conventions",
+      "choices": ["temperatures; therefore,", "temperatures, therefore,", "temperatures, therefore", "temperatures therefore"], "answer": "A",
+      "explain": "Both halves are complete sentences joined by the transition 'therefore.' A semicolon must come before it and a comma after it. Using only commas creates a comma splice, because a comma can't join two sentences even with 'therefore,' and no punctuation creates a run-on."
+    },
+
+    {
+      "skill": "Form, Structure, and Sense", "diff": "easy",
+      "passage": "Every morning, the students in Ms. Park's class ______ a short poem aloud before starting their lessons.",
+      "question": "@conventions",
+      "choices": ["read", "reads", "is reading", "has read"], "answer": "A",
+      "explain": "The subject is 'the students,' which is plural, so it takes the plural verb 'read.' 'Reads,' 'is reading,' and 'has read' are singular forms that match a singular subject, not 'students.'"
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "easy",
+      "passage": "Last summer, the town ______ a new playground next to the community pool.",
+      "question": "@conventions",
+      "choices": ["built", "builds", "will build", "is building"], "answer": "A",
+      "explain": "'Last summer' places the action in the past, so the past tense 'built' is correct. 'Builds' and 'is building' are present tense, and 'will build' is future."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "easy",
+      "passage": "The Amazon River carries more water than any other river on Earth. At ______ mouth, it releases about 200,000 cubic meters of water into the Atlantic Ocean every second.",
+      "question": "@conventions",
+      "choices": ["its", "it's", "their", "they're"], "answer": "A",
+      "explain": "The blank needs a singular possessive pronoun for 'the Amazon River': 'its.' 'It's' means 'it is.' 'Their' is plural, and 'they're' means 'they are.'"
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "medium",
+      "passage": "The collection of rare maps, which includes charts drawn by sixteenth-century explorers, ______ in a climate-controlled room to protect the fragile paper.",
+      "question": "@conventions",
+      "choices": ["is stored", "are stored", "were stored", "have been stored"], "answer": "A",
+      "explain": "The subject is 'collection,' which is singular. The plural words 'maps' and 'explorers' come between the subject and the verb but don't change it. 'Is stored' is singular and present tense, which matches the ongoing purpose ('to protect'). The other choices are plural."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "medium",
+      "passage": "The three ______ entries, chosen from more than 400 submissions, will be displayed in the city hall lobby next month.",
+      "question": "@conventions",
+      "choices": ["finalists'", "finalist's", "finalists", "finalists's"], "answer": "A",
+      "explain": "The entries belong to three finalists, so the plural possessive is needed: 'finalists'.' 'Finalist's' refers to only one finalist, 'finalists' isn't possessive, and 'finalists's' isn't a standard form."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "medium",
+      "passage": "Each of the volunteers who cleaned up the beach last weekend ______ a certificate of appreciation from the parks department.",
+      "question": "@conventions",
+      "choices": ["received", "were receiving", "have received", "receive"], "answer": "A",
+      "explain": "The subject is 'Each,' which is singular, so the verb must be singular. 'Last weekend' places the event in the past, so 'received' fits. 'Were receiving,' 'have received,' and 'receive' are plural forms."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "medium",
+      "passage": "Researchers studying the coral reef recorded more than 300 species of fish. Many of these species ______ never been documented in the region before the survey began.",
+      "question": "@conventions",
+      "choices": ["had", "has", "having", "to have"], "answer": "A",
+      "explain": "The sentence needs a main verb that agrees with the plural subject 'Many of these species' and shows an earlier time than the past survey. 'Had' (in 'had never been documented') does both. 'Has' is singular, and 'having' and 'to have' can't serve as the sentence's main verb."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "Walking through the newly restored gardens, ______",
+      "question": "@conventions",
+      "choices": ["visitors can see more than 150 varieties of roses.", "more than 150 varieties of roses can be seen by visitors.", "the roses, more than 150 varieties, can be seen.", "there are more than 150 varieties of roses for visitors to see."], "answer": "A",
+      "explain": "The opening phrase 'Walking through the newly restored gardens' must describe the subject that comes right after the comma. Only visitors can walk through the gardens. The other choices put 'varieties,' 'roses,' or 'there' right after the phrase, which suggests that the roses are walking."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "The novelist's early books were praised for their vivid settings, while critics found the ______ to be thinner and less convincing.",
+      "question": "@conventions",
+      "choices": ["characters in them", "character's in them", "characters' in them", "characters's in them"], "answer": "A",
+      "explain": "The blank needs a plain plural noun, the thing critics found thin: 'characters.' Nothing is owned by the characters here, so the apostrophe forms are wrong."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "By the time the rescue team arrived at the flooded village, most of the residents ______ to higher ground with the help of neighbors who owned small boats.",
+      "question": "@conventions",
+      "choices": ["had already moved", "have already moved", "already move", "will have already moved"], "answer": "A",
+      "explain": "The residents moved before the team arrived, which was itself in the past. The past perfect 'had already moved' shows an action finished before another past event. 'Have already moved' is present perfect, 'already move' is present tense, and 'will have already moved' points to the future."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "Neither the director nor the actors ______ willing to discuss the film's ending before its release.",
+      "question": "@conventions",
+      "choices": ["were", "was", "is", "has been"], "answer": "A",
+      "explain": "With 'neither... nor,' the verb agrees with the noun closest to it. Here that's 'the actors,' which is plural, so the verb is 'were.' 'Was,' 'is,' and 'has been' are singular."
+    }
+  ]
+}

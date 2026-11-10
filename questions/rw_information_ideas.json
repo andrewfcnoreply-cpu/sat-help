@@ -1,0 +1,238 @@
+{
+  "section": "rw",
+  "questions": [
+    {
+      "skill": "Central Ideas and Details", "diff": "easy",
+      "passage": "Honeybees communicate the location of food through a movement called the waggle dance. A bee that has found flowers returns to the hive and walks in a figure-eight pattern, shaking its body during the straight part of the run. The direction of that run tells other bees which way to fly, and the length of the shaking tells them roughly how far to go.",
+      "question": "@main",
+      "choices": ["Honeybees use a dance to tell other bees where to find food.", "Honeybees prefer flowers that grow close to the hive.", "Honeybees dance mainly to warn the hive about danger.", "Honeybees can find flowers only by following other bees."], "answer": "A",
+      "explain": "The whole text explains how the waggle dance shows direction and distance to food. It never says bees prefer nearby flowers or dance to warn of danger, and the bee doing the dance found the flowers on its own."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "easy",
+      "passage": "The following text is from a short story.\nJonah had never liked the dog next door. It barked at his bicycle and dug under the fence into his mother's tulips. But when a thunderstorm knocked out the power one night and Jonah heard the dog whimpering alone in the dark, he found himself carrying a flashlight and a blanket across the yard.",
+      "question": "According to the text, what does Jonah do during the thunderstorm?",
+      "choices": ["He goes to comfort the frightened dog next door.", "He repairs the fence the dog dug under.", "He complains to his neighbors about the barking.", "He replants his mother's damaged tulips."], "answer": "A",
+      "explain": "When Jonah hears the dog whimpering during the storm, he carries a flashlight and blanket across the yard, so he goes to comfort it. The fence, complaints, and tulips are mentioned only as background or not at all during the storm."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "easy",
+      "passage": "Libraries in many small towns have started lending more than books. Patrons in some places can now borrow tools, cake pans, telescopes, and even fishing rods. Librarians say these collections help people try new hobbies without spending a lot of money and bring in visitors who might not otherwise come to the library.",
+      "question": "@main",
+      "choices": ["Some libraries now lend a variety of objects, which librarians say benefits their communities.", "Small-town libraries have stopped lending books in order to save money.", "Most people prefer to buy tools and telescopes rather than borrow them.", "Librarians in small towns are worried that fewer people are visiting."], "answer": "A",
+      "explain": "The text describes libraries lending objects and explains the benefits librarians see. Libraries still lend books ('more than books'), the text says nothing about buying preferences, and it presents the lending programs as bringing visitors in."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "medium",
+      "passage": "For decades, scientists believed that the deep ocean floor had too little food to support much life. But when researchers began exploring hydrothermal vents, cracks in the seafloor that release mineral-rich hot water, they found dense communities of tube worms, clams, and shrimp. These animals depend on bacteria that make food from chemicals in the vent water rather than from sunlight.",
+      "question": "@main",
+      "choices": ["Discoveries at hydrothermal vents showed that rich communities of life can exist on the deep ocean floor without sunlight.", "Hydrothermal vents release water that is too hot for most animals to survive.", "Scientists have stopped studying the deep ocean because it contains little food.", "Tube worms, clams, and shrimp are the most common animals in the ocean."], "answer": "A",
+      "explain": "The text contrasts the old belief that the deep sea had little life with the discovery of dense vent communities fed by chemical-using bacteria. It doesn't say the water is too hot for animals (animals thrive there), scientists clearly kept exploring, and nothing compares these animals with ocean life overall."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "medium",
+      "passage": "The following text is from a short story.\nAt the reunion, everyone told Celia she hadn't changed a bit. She smiled and thanked them, but on the drive home she thought about the girl she had been at seventeen, so certain about everything, so afraid of being wrong. She was glad, she realized, that the people who knew her best were mistaken.",
+      "question": "@main",
+      "choices": ["Celia is pleased to recognize that she has grown in ways others did not notice.", "Celia is upset that her old classmates no longer recognize her.", "Celia wishes she could return to the confidence she had at seventeen.", "Celia regrets attending the reunion because the conversations were dull."], "answer": "A",
+      "explain": "Celia is 'glad' that people are wrong to say she hasn't changed, which shows she values how she's grown. Her classmates did recognize her, she remembers her younger self as afraid of being wrong rather than something to return to, and nothing suggests the reunion was dull."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "medium",
+      "passage": "In 1958, the city of Portmere removed its streetcar lines, believing buses would be cheaper and more flexible. Sixty years later, the city is building a new streetcar line along the same main avenue. Planners say that riders tend to trust fixed rails more than bus routes, which can be changed easily, and that businesses are more willing to open along a route they know will last.",
+      "question": "According to the text, why do planners favor building the new streetcar line?",
+      "choices": ["Fixed rail routes give riders and businesses confidence that the service will stay in place.", "Streetcars are cheaper to operate than buses in most cities.", "The original streetcar tracks were never removed and can be reused.", "Buses cannot travel along the city's main avenue."], "answer": "A",
+      "explain": "The planners' reasons are that riders trust fixed rails and businesses will open along a route they know will last. The text never says streetcars are cheaper; in fact, the city once removed them because buses seemed cheaper. The old lines were removed, and nothing says buses can't use the avenue."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "medium",
+      "passage": "Octopuses have about 500 million neurons, a number similar to that of a dog. Unusually, about two-thirds of these neurons are located in the octopus's arms rather than its central brain. Experiments show that an octopus arm can respond to touch and grab food even when it gets no signals from the brain, suggesting that each arm can make some decisions on its own.",
+      "question": "@main",
+      "choices": ["Much of an octopus's nervous system is located in its arms, which can act with some independence.", "Octopuses are more intelligent than dogs because they have more neurons.", "An octopus's central brain controls every movement of its arms.", "Octopuses use their arms mainly to communicate with other octopuses."], "answer": "A",
+      "explain": "The text explains that most octopus neurons are in the arms and that arms can respond on their own. It says the neuron counts are similar to a dog's, not greater, and doesn't compare intelligence. Arms acting without brain signals contradicts total central control, and communication isn't discussed."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "Economic historians have long credited the spread of railroads with the rapid growth of the nineteenth-century American economy. Economist Ruth Calder does not deny that railroads mattered, but her calculations suggest that canals and roads could have carried most of the same goods at only slightly higher cost. If so, Calder argues, the economy would have grown nearly as fast without railroads, and their importance has been overstated.",
+      "question": "@main",
+      "choices": ["Calder argues that railroads contributed less to economic growth than many historians have claimed.", "Calder argues that railroads slowed the growth of the American economy.", "Calder argues that canals were more important than railroads in the nineteenth century.", "Calder argues that historians have ignored the economic role of railroads."], "answer": "A",
+      "explain": "Calder accepts that railroads mattered but argues the economy would have grown 'nearly as fast' without them, so their importance has been overstated. She doesn't say they slowed growth, she says canals and roads would have cost slightly more (so not more important), and historians have emphasized railroads rather than ignored them."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "The following text is from a short story.\nThe letter from the university sat unopened on the kitchen table all afternoon. Nadia's mother walked past it twice and said nothing, which was its own kind of saying something. By evening, Nadia had decided that she would open it only after dinner, when the dishes were done and there was nothing left to do with her hands.",
+      "question": "Based on the text, why does Nadia most likely delay opening the letter?",
+      "choices": ["She is anxious about what the letter will say and is putting off finding out.", "She has already learned the letter's contents from a friend.", "She is too busy with household chores to read the letter.", "She is upset with her mother for leaving the letter on the table."], "answer": "A",
+      "explain": "Nadia waits until there's 'nothing left to do with her hands,' which suggests nervous energy and reluctance to face the news. Nothing suggests she already knows the contents. Chores aren't keeping her busy; she chooses to wait until after them. Her mother's silence isn't described as upsetting her."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "When the painter Lucia Ferrante began exhibiting in the 1960s, critics praised her bold colors but called her compositions chaotic. Decades later, art historian Martin Doyle examined her sketchbooks and found that each seemingly random painting had been planned through dozens of careful studies. The chaos, Doyle argues, was an effect Ferrante worked hard to create, not a lack of control.",
+      "question": "@main",
+      "choices": ["Evidence from Ferrante's sketchbooks suggests that the apparent disorder of her paintings was deliberate.", "Critics in the 1960s were wrong to praise Ferrante's use of color.", "Ferrante's later paintings were more carefully planned than her early ones.", "Doyle believes that Ferrante's paintings are too chaotic to be appreciated."], "answer": "A",
+      "explain": "Doyle's study of the sketchbooks shows careful planning behind paintings that looked random, so the chaos was intentional. The text doesn't dispute the praise of her color, doesn't compare early and later work, and Doyle is defending her control rather than criticizing her."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "Many people assume that the loudest birds in a forest are the largest. But ornithologist Grace Mwangi found that among the species she recorded, volume depended less on body size than on habitat. Small birds living in dense forests often sang more loudly than larger birds in open grasslands, likely because thick vegetation absorbs sound and forces forest birds to sing louder to be heard.",
+      "question": "According to the text, what did Mwangi find about bird songs?",
+      "choices": ["Habitat had a greater effect on how loudly birds sang than body size did.", "Larger birds always sang more loudly than smaller birds.", "Birds in open grasslands sang more loudly than birds in forests.", "Dense vegetation makes bird songs easier to hear."], "answer": "A",
+      "explain": "Mwangi found that volume 'depended less on body size than on habitat.' This contradicts the idea that larger birds are always louder. Small forest birds often sang more loudly than grassland birds, and vegetation absorbs sound, making songs harder to hear, not easier."
+    },
+
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "easy",
+      "passage": "Biologist Mei Tanaka hypothesizes that city pigeons recognize individual people. To test this, she had one researcher feed pigeons in a park while another researcher, wearing different clothes, chased them away.",
+      "question": "Which finding, if true, would most directly support Tanaka's hypothesis?",
+      "choices": ["Later, the pigeons approached the researcher who fed them but avoided the one who chased them, even after the researchers swapped clothes.", "The pigeons ate more food in the morning than in the afternoon.", "The pigeons avoided both researchers equally after the experiment.", "The pigeons flew away whenever any person walked through the park."], "answer": "A",
+      "explain": "If the pigeons still treated each researcher differently after the clothes were swapped, they must be recognizing the people themselves, not their clothing. Eating times say nothing about recognition, and avoiding everyone equally would show no difference between people."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "easy",
+      "passage": "In the novel <i>The Lantern Keeper</i>, the narrator describes her grandfather as a patient man. In the novel, the narrator writes, ______",
+      "question": "Which quotation from the novel most effectively illustrates the claim?",
+      "choices": ["\"He would wait an hour at the riverbank for a single fish, never once checking his watch.\"", "\"He was the tallest man in our village and had a voice like rolling thunder.\"", "\"He kept his lantern polished and lit every evening at sunset.\"", "\"He told the same three jokes at every family dinner.\""], "answer": "A",
+      "explain": "Waiting an hour for one fish without checking the time directly shows patience. Height and voice describe his appearance, lighting a lantern shows routine, and repeating jokes shows a habit, but none of these shows patience."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "easy",
+      "passage": "A school district introduced later start times for its high schools, moving the first bell from 7:30 a.m. to 8:30 a.m. District officials claim that the change improved students' attendance.",
+      "question": "Which finding, if true, would most directly support the officials' claim?",
+      "choices": ["The percentage of students absent from first-period classes dropped after the change.", "Students reported that they enjoyed their elective classes more after the change.", "Bus routes had to be redesigned to fit the new schedule.", "Teachers began holding more meetings in the early morning."], "answer": "A",
+      "explain": "The claim is about attendance, so fewer absences after the change supports it directly. Enjoying electives, redesigned bus routes, and teacher meetings don't measure whether students showed up."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "medium",
+      "passage": "Ecologist Pablo Serrano hypothesizes that a species of desert lizard changes its color to control its body temperature, becoming darker on cool mornings to absorb more heat and lighter in the midday heat.",
+      "question": "Which finding, if true, would most directly support Serrano's hypothesis?",
+      "choices": ["Lizards kept in a cool enclosure stayed darker throughout the day than lizards kept in a warm enclosure.", "The lizards' color varied from one individual to another regardless of temperature.", "Lizards were darker when they were near predators than when they were alone.", "The lizards ate more insects in the afternoon than in the morning."], "answer": "A",
+      "explain": "If cooler conditions keep the lizards darker, color is tracking temperature, which supports the idea that darkening helps them warm up. Color unrelated to temperature or linked to predators would point to other explanations, and eating habits are irrelevant."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "medium",
+      "passage": "In the poem \"Late Harvest,\" the speaker expresses gratitude for the ordinary work of farming even as the season comes to an end. In the poem, the speaker writes, ______",
+      "question": "Which quotation from the poem most effectively illustrates the claim?",
+      "choices": ["\"I bless the blistered hands, the bending back, / the last plain rows of beans I gather in.\"", "\"The swallows leave the barn without a word, / and frost writes cold on every pane of glass.\"", "\"Next spring the fields will green again, they say, / though no one plants a field for what they say.\"", "\"My neighbor's tractor rusts beside the road, / its engine quiet now for seven years.\""], "answer": "A",
+      "explain": "The claim has two parts: gratitude and ordinary farm work. 'I bless' expresses thanks, and blistered hands, a bending back, and gathering beans are everyday farm labor. The swallows and frost show the season ending but no gratitude, the spring lines focus on the future, and the rusting tractor shows neglect."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "medium",
+      "passage": "Psychologist Erin Walsh claims that people remember information better when they explain it to someone else than when they simply reread it.",
+      "question": "Which finding from Walsh's study, if true, would most directly support her claim?",
+      "choices": ["Participants who taught a lesson to a partner recalled more of its details a week later than participants who reread the lesson for the same amount of time.", "Participants who reread the lesson said they found it more interesting than those who taught it.", "Participants recalled more details on the day of the lesson than a week later.", "Participants who taught the lesson spoke for an average of ten minutes."], "answer": "A",
+      "explain": "Walsh's claim compares explaining with rereading, so the best support shows the explaining group remembered more, with time held equal. Interest ratings don't measure memory, forgetting over a week applies to everyone, and speaking time doesn't show a memory benefit."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "medium",
+      "passage": "Some historians claim that the town of Westbrook grew quickly in the 1870s because of the opening of a nearby silver mine.",
+      "question": "Which finding, if true, would most directly support the historians' claim?",
+      "choices": ["Town records show that most of the people who moved to Westbrook in the 1870s listed their job as \"miner.\"", "Westbrook's first church was built in the 1850s, before the mine opened.", "The silver mine closed in the 1890s after its main vein was exhausted.", "Westbrook's population was larger in 1900 than in 1880."], "answer": "A",
+      "explain": "If most newcomers in the 1870s were miners, that ties the town's growth in that decade to the mine. A church built earlier and a mine closing later don't explain growth in the 1870s, and population in 1880 versus 1900 concerns a different period."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "Botanist Kemi Adeyemi hypothesizes that a certain flowering plant produces nectar with low sugar content in order to attract hummingbirds rather than bees. Hummingbirds, she notes, can drink large volumes of thin nectar quickly, whereas bees tend to prefer nectar with high sugar content.",
+      "question": "Which finding, if true, would most directly weaken Adeyemi's hypothesis?",
+      "choices": ["In areas where the plant grows, bees visit its flowers far more often than hummingbirds do.", "Hummingbirds visit the plant more often when other flowers are scarce.", "The plant's nectar contains less sugar than the nectar of most bee-pollinated flowers.", "Hummingbirds can see the color red, which is the color of the plant's flowers."], "answer": "A",
+      "explain": "If the thin nectar is meant to attract hummingbirds over bees, then bees visiting far more often would cut against the idea. Hummingbird visits rising when food is scarce doesn't challenge it. The low-sugar finding fits the hypothesis, and red flowers that hummingbirds can see would support it, not weaken it."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "In the novel <i>Shore Lights</i>, the narrator's sister Ada appears confident to others but privately doubts herself. In the novel, the narrator observes, ______",
+      "question": "Which quotation from the novel most effectively illustrates the claim?",
+      "choices": ["\"At the debate she spoke without a single pause, yet that night I heard her rehearsing the same arguments again and again, as if she'd lost.\"", "\"Ada had always been the one who chose our games, and none of us thought to argue.\"", "\"She worried constantly about her grades and told everyone so, until our parents begged her to stop.\"", "\"Everyone in town admired Ada, and she accepted their praise with an easy smile.\""], "answer": "A",
+      "explain": "The claim needs both a confident public image and private doubt. Speaking smoothly at the debate shows the public confidence, and rehearsing alone 'as if she'd lost' shows hidden doubt. Choosing games shows only confidence; worrying openly isn't private; and accepting praise easily shows no doubt at all."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "Researchers studying a coastal town found that residents who lived within walking distance of a public park reported higher life satisfaction than residents who did not. Urban planner Daniel Osei argues that the parks themselves raise residents' well-being, rather than happier people simply choosing to live near parks.",
+      "question": "Which finding, if true, would most directly support Osei's argument?",
+      "choices": ["After a new park opened in one neighborhood, the life satisfaction of residents who already lived there rose, while satisfaction in similar neighborhoods without new parks stayed the same.", "Homes near parks in the town cost more than homes farther from parks.", "Residents who lived near parks were, on average, older than those who did not.", "Most residents said that they visited parks at least once a month."], "answer": "A",
+      "explain": "Osei must rule out the idea that happier people move near parks. If the same residents became happier after a park opened nearby, while comparable areas didn't change, the park itself likely caused the rise. Higher prices and age differences hint at other explanations, and visit frequency doesn't show cause and effect."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "In his 1850s journals, a fictional naturalist named Elias Brandt describes the marsh near his home as both beautiful and threatening. In one entry, Brandt writes, ______",
+      "question": "Which quotation from the journal most effectively illustrates the claim?",
+      "choices": ["\"The mist turns the reeds to silver at dawn, and I have never seen a lovelier sight, though I keep well back from the soft ground where a heron sank last spring.\"", "\"Today I counted forty-two species of birds along the marsh's eastern edge.\"", "\"The marsh is a dangerous place, and I warn my children never to wander there alone.\"", "\"At dawn the reeds shine silver in the mist, as lovely as any painting in the city.\""], "answer": "A",
+      "explain": "The claim pairs beauty with danger. The first quotation calls the scene the loveliest sight he has seen while noting soft ground that swallowed a heron. Counting birds is neutral observation; the warning to his children shows only danger; and the silver reeds alone show only beauty."
+    },
+
+    {
+      "skill": "Inferences", "diff": "easy",
+      "passage": "A bakery owner noticed that her bread sold out every morning by 9:00 a.m., while customers who arrived later often left without buying anything. To serve these later customers, she decided to ______",
+      "question": "@complete",
+      "choices": ["bake a second batch of bread to sell later in the day.", "close the bakery at 9:00 a.m. each day.", "raise the price of bread in the early morning.", "stop baking bread and sell only pastries."], "answer": "A",
+      "explain": "Later customers leave empty-handed because the bread is gone, so a second batch later in the day would serve them. Closing at 9:00 or dropping bread would make things worse for them, and raising early prices doesn't give later customers any bread."
+    },
+    {
+      "skill": "Inferences", "diff": "easy",
+      "passage": "Students in a science class planted bean seeds in two groups of pots. Both groups received the same soil and water, but one group was kept in a sunny window and the other in a dark closet. After two weeks, the beans in the window were tall and green, while those in the closet were pale and weak. This result suggests that ______",
+      "question": "@complete",
+      "choices": ["bean plants need light to grow well.", "bean plants grow best without water.", "the soil in the closet was of poor quality.", "bean seeds sprout faster in the dark."], "answer": "A",
+      "explain": "The only difference between the groups was light, and the plants with light grew better, so light matters for healthy growth. Both groups got water, the soil was the same, and the text doesn't say the dark seeds sprouted faster."
+    },
+    {
+      "skill": "Inferences", "diff": "easy",
+      "passage": "In many cities, the number of people who commute by bicycle rises sharply in the spring and summer and falls in the winter. Cities that have built covered bike lanes and heated bike parking have seen much smaller drops in winter cycling. This pattern suggests that ______",
+      "question": "@complete",
+      "choices": ["cold and wet weather is one reason fewer people cycle in winter.", "most cyclists prefer to ride in the winter.", "covered bike lanes cause more people to buy cars.", "cycling is no longer popular in large cities."], "answer": "A",
+      "explain": "Cycling falls in winter, but less so where riders are protected from the weather. That points to weather as a reason for the drop. The text shows cycling dropping in winter, not rising, and says nothing about cars or declining popularity overall."
+    },
+    {
+      "skill": "Inferences", "diff": "medium",
+      "passage": "Archaeologists excavating an ancient village found fish bones and fishing hooks in the oldest layers of the site. In the newer layers, fish bones were rare, while bones of sheep and goats were common, along with stone tools used for grinding grain. These findings suggest that, over time, the villagers ______",
+      "question": "@complete",
+      "choices": ["shifted from relying on fishing toward raising animals and growing crops.", "stopped eating meat altogether.", "moved the village closer to the sea.", "began catching more fish than in earlier periods."], "answer": "A",
+      "explain": "Older layers show fishing; newer layers show sheep, goats, and grain-grinding tools, so the villagers moved toward herding and farming. They still ate meat from sheep and goats. Fewer fish bones argue against moving closer to the sea or catching more fish."
+    },
+    {
+      "skill": "Inferences", "diff": "medium",
+      "passage": "Researchers compared two groups of tomato plants. One group was planted next to marigolds, and the other was planted alone. The tomatoes planted near marigolds had far fewer roundworm pests in their roots. In a follow-up test, tomatoes grown in soil mixed with crushed marigold roots, but with no living marigolds nearby, also had fewer roundworms. Together, these findings suggest that ______",
+      "question": "@complete",
+      "choices": ["a substance in marigold roots, rather than the presence of living marigolds, may help protect tomatoes from roundworms.", "tomatoes grow taller when planted next to marigolds.", "roundworms prefer to feed on marigolds rather than on tomatoes.", "marigolds can survive only when planted next to tomatoes."], "answer": "A",
+      "explain": "The follow-up test removed living marigolds but kept their crushed roots, and the protection remained, which points to something in the roots. Plant height isn't measured. If roundworms simply preferred marigolds, crushed roots alone wouldn't explain the result, and the text says nothing about marigolds needing tomatoes."
+    },
+    {
+      "skill": "Inferences", "diff": "medium",
+      "passage": "A museum noticed that visitors spent an average of only eight seconds looking at each painting. After the museum added short labels asking a question about each work, such as \"What do you think the woman in the window is waiting for?\", the average viewing time rose to twenty-five seconds. This suggests that ______",
+      "question": "@complete",
+      "choices": ["prompting visitors to think about a painting can lead them to look at it longer.", "visitors prefer paintings of people to paintings of landscapes.", "longer labels with detailed history are the best way to hold visitors' attention.", "most visitors come to the museum to read labels rather than to see art."], "answer": "A",
+      "explain": "After the labels started asking questions, viewing time tripled, which suggests prompting thought keeps people looking. No comparison of subjects is made, the labels were short questions rather than detailed history, and nothing suggests visitors care more about labels than art."
+    },
+    {
+      "skill": "Inferences", "diff": "medium",
+      "passage": "Arctic terns migrate between the Arctic and the Antarctic each year. Tracking devices show that rather than flying straight, many terns follow curving routes that are thousands of kilometers longer. Along these curves, prevailing winds blow in the direction the birds are traveling. This suggests that the terns' curving routes ______",
+      "question": "@complete",
+      "choices": ["may help them save energy by taking advantage of favorable winds.", "are the result of the birds becoming lost during migration.", "allow them to avoid flying over the ocean.", "are shorter than the straight routes between the poles."], "answer": "A",
+      "explain": "The longer routes line up with winds blowing the birds' way, so flying farther with a tailwind likely takes less effort. Nothing suggests the birds are lost, the text doesn't mention avoiding the ocean, and the curving routes are described as longer, not shorter."
+    },
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "Historians studying letters written by soldiers in a nineteenth-century war found that letters sent early in the war often described battle in heroic terms. Letters written later, after mail censorship had ended, were far more likely to describe fear, hunger, and illness. Some historians conclude that soldiers' feelings about the war grew darker over time. But because censorship was in place only early in the war, it is also possible that ______",
+      "question": "@complete",
+      "choices": ["early letters left out hardships that soldiers were already experiencing.", "soldiers wrote fewer letters as the war went on.", "the war ended sooner than most soldiers expected.", "later letters were written mostly by officers rather than ordinary soldiers."], "answer": "A",
+      "explain": "Censorship early in the war could have kept soldiers from writing about suffering, so the early heroic tone might not reflect their true experience. That's the alternative to feelings simply growing darker. The number of letters, the war's length, and who wrote them don't connect to the censorship point."
+    },
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "In a study of a lake, researchers found that the population of a small fish declined sharply in years when a larger predatory fish was abundant. However, in one year the predator was abundant but the small fish population remained high. That year, unusually heavy rains had caused thick plant growth along the lake's shallow edges. These observations suggest that ______",
+      "question": "@complete",
+      "choices": ["dense shoreline vegetation may give the small fish places to hide from the predator.", "the predatory fish does not actually eat the small fish.", "heavy rains reduce the number of predatory fish in the lake.", "the small fish population depends mainly on water temperature."], "answer": "A",
+      "explain": "The predator was abundant, yet the small fish did fine in the one year with thick plant cover, which suggests the plants offered shelter. The usual decline when predators are common implies the predator does eat the small fish. The predator was abundant that year, so rain didn't reduce it, and temperature isn't mentioned."
+    },
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "A company tested a redesigned checkout page on its website. Customers who saw the new page completed purchases 12 percent more often than those who saw the old page. However, the new page was shown only to customers using mobile phones, and mobile shoppers at the company had already been completing purchases more often than desktop shoppers before the test began. Therefore, the 12 percent difference ______",
+      "question": "@complete",
+      "choices": ["may not reflect the effect of the new page alone.", "proves that the new page is better for desktop shoppers.", "shows that mobile shoppers dislike the old page.", "means the company should stop selling to desktop shoppers."], "answer": "A",
+      "explain": "The new page went only to mobile users, who already bought more often. So part or all of the 12 percent gap may come from the kind of shopper, not the page. Desktop users never saw the new page, and the data say nothing about likes, dislikes, or abandoning desktop sales."
+    },
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "Geologists have found layers of a rare metal, iridium, in rocks around the world that formed at the same time, about 66 million years ago. Iridium is uncommon in Earth's crust but much more common in some asteroids. If an asteroid struck Earth and spread dust across the planet, it would leave a thin, worldwide layer rich in iridium. The iridium layers therefore ______",
+      "question": "@complete",
+      "choices": ["are consistent with the idea that an asteroid struck Earth about 66 million years ago.", "prove that all of Earth's iridium came from asteroids.", "show that iridium was common in Earth's crust 66 million years ago.", "indicate that asteroids have struck Earth only once in its history."], "answer": "A",
+      "explain": "A worldwide iridium layer from one moment in time is just what an asteroid impact would leave, so the layers are consistent with that idea. They don't prove all iridium came from asteroids. The text says iridium is uncommon in the crust, and one layer can't show impacts happened only once."
+    }
+  ]
+}

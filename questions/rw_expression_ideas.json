@@ -1,0 +1,160 @@
+{
+  "section": "rw",
+  "questions": [
+    {
+      "skill": "Rhetorical Synthesis", "diff": "easy",
+      "passage": "@notes\n• Rosa Delgado is a muralist based in Tucson, Arizona.\n• In 2021, she painted a mural on the side of a public library.\n• The mural shows local desert plants, including the saguaro cactus and the desert marigold.\n• The mural is 40 feet long.",
+      "question": "The student wants to describe the subject of Delgado's library mural. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Delgado's library mural depicts local desert plants such as the saguaro cactus and the desert marigold.", "Rosa Delgado is a muralist based in Tucson, Arizona.", "In 2021, Delgado painted a mural on the side of a public library.", "Delgado's mural, which is 40 feet long, was completed in 2021."], "answer": "A",
+      "explain": "The goal is the mural's subject, meaning what it shows. Only the first choice says what the mural depicts. The others give Delgado's location, the year, or the mural's length."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "easy",
+      "passage": "@notes\n• The fennec fox lives in the Sahara Desert.\n• It has very large ears, up to 6 inches long.\n• Its large ears help release body heat.\n• The fennec fox is the smallest species of fox.",
+      "question": "The student wants to explain how the fennec fox's ears help it survive in its habitat. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["The fennec fox's large ears help it release body heat, an advantage in the hot Sahara Desert.", "The fennec fox, the smallest species of fox, lives in the Sahara Desert.", "The fennec fox has ears that can be up to 6 inches long.", "The fennec fox is the smallest fox species and has very large ears."], "answer": "A",
+      "explain": "Only the first choice connects the ears to survival in the habitat: they release heat in a hot desert. The other choices mention the ears' size or the fox's home but don't explain how the ears help."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "easy",
+      "passage": "@notes\n• The Larkin Bridge and the Ostrow Bridge both cross the Vell River.\n• The Larkin Bridge was built in 1912.\n• The Ostrow Bridge was built in 1987.\n• Both bridges are made of steel.",
+      "question": "The student wants to emphasize a similarity between the two bridges. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Like the Larkin Bridge, the Ostrow Bridge is made of steel.", "The Larkin Bridge was built in 1912, while the Ostrow Bridge was built in 1987.", "The Ostrow Bridge was built 75 years after the Larkin Bridge.", "The Larkin Bridge, built in 1912, crosses the Vell River."], "answer": "A",
+      "explain": "A similarity is something both bridges share, and both are made of steel. The construction dates show a difference, and the last choice describes only one bridge."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "medium",
+      "passage": "@notes\n• Researchers at a university studied whether background music affects how well people solve puzzles.\n• Participants solved puzzles in silence, with calm music, or with fast music.\n• Participants who heard fast music solved the fewest puzzles.\n• Participants in silence and with calm music performed about equally well.",
+      "question": "The student wants to present the study's main finding. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Participants who heard fast music solved the fewest puzzles, while those in silence or with calm music performed about equally well.", "Researchers studied whether background music affects how well people solve puzzles.", "Participants in the study solved puzzles in silence, with calm music, or with fast music.", "University researchers recruited participants to solve puzzles under different conditions."], "answer": "A",
+      "explain": "A finding is a result. The first choice reports what happened in each condition. The other choices describe the study's purpose or method, not its results."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "medium",
+      "passage": "@notes\n• Ama Owusu is a Ghanaian textile artist.\n• She weaves kente cloth, a traditional fabric made of interlaced strips.\n• Her designs combine traditional patterns with images from modern city life.\n• Her work has been shown in galleries in Accra and London.",
+      "question": "The student wants to introduce Owusu's work to an audience unfamiliar with kente cloth. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Ghanaian artist Ama Owusu weaves kente cloth, a traditional fabric made of interlaced strips, combining traditional patterns with images of modern city life.", "Ama Owusu's kente cloth has been shown in galleries in Accra and London.", "Ama Owusu combines traditional kente patterns with modern images.", "Ghanaian textile artist Ama Owusu has exhibited her work in Accra and London."], "answer": "A",
+      "explain": "An unfamiliar audience needs to know what kente cloth is. Only the first choice explains it (a fabric of interlaced strips) and also describes Owusu's work. The others mention kente cloth without explaining it or skip her designs entirely."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "medium",
+      "passage": "@notes\n• Sea otters eat sea urchins.\n• Sea urchins eat kelp, a large seaweed.\n• When sea otters disappeared from some coasts, urchin populations grew and kelp forests shrank.\n• When sea otters returned, kelp forests recovered.",
+      "question": "The student wants to explain how sea otters affect kelp forests. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["By eating sea urchins, which feed on kelp, sea otters help keep kelp forests healthy.", "Sea urchins eat kelp, a large seaweed.", "Sea otters disappeared from some coasts and later returned.", "Sea otters and sea urchins both live in kelp forests."], "answer": "A",
+      "explain": "The first choice links the chain: otters eat urchins, urchins eat kelp, so otters protect kelp. The other choices give pieces of the chain without explaining the otters' effect, and the last one isn't stated in the notes."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "medium",
+      "passage": "@notes\n• The novel <i>Winter Orchard</i> was written by Ines Carvalho.\n• It was published in 2015.\n• The novel is set in a farming village in Portugal.\n• It follows three generations of one family.\n• It has been translated into 22 languages.",
+      "question": "The student wants to emphasize the novel's international reach. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Ines Carvalho's 2015 novel <i>Winter Orchard</i> has been translated into 22 languages.", "<i>Winter Orchard</i> follows three generations of a family in a Portuguese farming village.", "Ines Carvalho published <i>Winter Orchard</i> in 2015.", "<i>Winter Orchard</i> is set in a farming village in Portugal."], "answer": "A",
+      "explain": "Being translated into 22 languages shows the book reaches readers around the world. The other choices describe its plot, setting, or publication date, none of which shows international reach."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• Two composers, Lena Holt and Marco Ruiz, wrote pieces inspired by ocean waves.\n• Holt's piece, <i>Tidewater</i>, is written for a full orchestra.\n• Ruiz's piece, <i>Undertow</i>, is written for solo piano.\n• Both pieces premiered in 2019.",
+      "question": "The student wants to contrast the instruments the two pieces are written for. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["While Holt's <i>Tidewater</i> is written for a full orchestra, Ruiz's <i>Undertow</i> is written for a single piano.", "Holt's <i>Tidewater</i> and Ruiz's <i>Undertow</i> both premiered in 2019.", "Both Holt and Ruiz wrote pieces inspired by ocean waves.", "Ruiz's piece <i>Undertow</i>, inspired by ocean waves, premiered in 2019."], "answer": "A",
+      "explain": "Only the first choice sets the instruments side by side (orchestra versus solo piano) with a contrast word, 'while.' The second and third choices emphasize similarities, and the last describes only one piece without mentioning instruments."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• In a study, biologist Sara Lind examined why some tree frogs call more at night.\n• She hypothesized that calling at night reduces the risk of being spotted by predators.\n• She recorded frog calls and counted predators on the same nights.\n• Frogs called less on nights with more predators nearby.",
+      "question": "The student wants to present the study's hypothesis and method. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["To test whether nighttime calling helps tree frogs avoid predators, Lind recorded frog calls and counted predators on the same nights.", "Lind found that tree frogs called less on nights when more predators were nearby.", "Biologist Sara Lind studied tree frogs and their predators.", "Tree frogs call more at night and call less when predators are nearby."], "answer": "A",
+      "explain": "The goal requires both the hypothesis (calling at night reduces risk from predators) and the method (recording calls and counting predators). Only the first choice includes both. The second gives the result, the third is too vague, and the fourth mixes facts without stating a hypothesis or method."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• The city of Halvard opened its first public library in 1904.\n• The library's original building had space for 5,000 books.\n• A new building opened in 1998.\n• The new building holds more than 200,000 books.",
+      "question": "The student wants to emphasize how much the library's collection capacity has grown. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Halvard's library, which had space for only 5,000 books in 1904, now holds more than 200,000 books in its building that opened in 1998.", "Halvard opened its first public library in 1904 and a new building in 1998.", "Halvard's new library building opened in 1998, 94 years after the first one.", "The library's original 1904 building had space for 5,000 books."], "answer": "A",
+      "explain": "To show growth, the sentence needs both the starting and current capacity: 5,000 then and more than 200,000 now. The second and third choices give only dates, and the fourth gives only the original capacity."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• Glassfrogs live in Central and South American rainforests.\n• Many species have see-through skin on their bellies.\n• Researchers found that sleeping glassfrogs store most of their red blood cells in their liver.\n• This makes their bodies even more transparent, likely helping them hide from predators.",
+      "question": "The student wants to explain a reason for glassfrogs' transparency to an audience unfamiliar with the animals. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Glassfrogs, rainforest frogs with see-through bellies, become even more transparent while sleeping by storing red blood cells in their liver, which likely helps them hide from predators.", "Researchers found that sleeping glassfrogs store most of their red blood cells in their liver.", "Glassfrogs live in the rainforests of Central and South America and have see-through bellies.", "Storing red blood cells in the liver likely helps glassfrogs hide from predators."], "answer": "A",
+      "explain": "The goal needs two things: an introduction for readers who don't know glassfrogs and a reason for their transparency. The first choice does both. The second gives a finding without its purpose, the third gives background only, and the fourth gives a reason without explaining what glassfrogs are."
+    },
+
+    {
+      "skill": "Transitions", "diff": "easy",
+      "passage": "Most cacti grow in hot, dry deserts. ______ some species, such as the Christmas cactus, grow on trees in humid rainforests.",
+      "question": "@transition",
+      "choices": ["However,", "For example,", "Therefore,", "Similarly,"], "answer": "A",
+      "explain": "The second sentence contrasts with the first: most cacti live in deserts, but some live in rainforests. 'However' signals contrast. 'For example' and 'Similarly' would suggest agreement, and 'Therefore' would wrongly suggest a cause and effect."
+    },
+    {
+      "skill": "Transitions", "diff": "easy",
+      "passage": "The school's robotics team practiced every afternoon for three months before the regional competition. ______ the team won first place.",
+      "question": "@transition",
+      "choices": ["As a result,", "For instance,", "In contrast,", "Previously,"], "answer": "A",
+      "explain": "Winning follows from all that practice, so a cause-and-effect transition fits: 'As a result.' 'For instance' introduces an example, 'In contrast' signals opposition, and 'Previously' puts the win before the practice, which is the wrong order."
+    },
+    {
+      "skill": "Transitions", "diff": "easy",
+      "passage": "Many foods were first grown in the Americas. ______ potatoes, tomatoes, and corn were all cultivated by Indigenous peoples of the Americas long before they reached Europe.",
+      "question": "@transition",
+      "choices": ["For example,", "However,", "Nevertheless,", "Instead,"], "answer": "A",
+      "explain": "The second sentence gives specific foods that support the general claim in the first, so 'For example' fits. 'However,' 'Nevertheless,' and 'Instead' all signal contrast, but the sentences agree."
+    },
+    {
+      "skill": "Transitions", "diff": "medium",
+      "passage": "The engineers expected the new bridge design to reduce construction costs. ______ the design required a special type of steel that turned out to be expensive, and the total cost rose.",
+      "question": "@transition",
+      "choices": ["In practice, however,", "In addition,", "Likewise,", "For this reason,"], "answer": "A",
+      "explain": "The engineers expected lower costs, but costs actually rose. 'In practice, however' contrasts the expectation with what really happened. 'In addition' and 'Likewise' signal agreement, and 'For this reason' would mean the expectation caused the cost increase."
+    },
+    {
+      "skill": "Transitions", "diff": "medium",
+      "passage": "Some birds, such as the bar-tailed godwit, fly thousands of kilometers without stopping to eat. Before migrating, godwits nearly double their body weight by storing fat. ______ some of their digestive organs shrink, reducing the weight the birds must carry during the flight.",
+      "question": "@transition",
+      "choices": ["At the same time,", "In contrast,", "For example,", "Instead,"], "answer": "A",
+      "explain": "The organ shrinking happens alongside the fat storage as another part of the same preparation. 'At the same time' links these simultaneous changes. 'In contrast' and 'Instead' wrongly suggest opposition, and the shrinking organs aren't an example of storing fat."
+    },
+    {
+      "skill": "Transitions", "diff": "medium",
+      "passage": "Silent films relied on actors' facial expressions and gestures to tell their stories. When sound arrived in the late 1920s, some stars of the silent era struggled, because their voices did not match audiences' expectations. ______ others found new fame as their voices became part of their appeal.",
+      "question": "@transition",
+      "choices": ["Meanwhile,", "Therefore,", "In other words,", "For instance,"], "answer": "A",
+      "explain": "The sentence describes what happened to a different group of stars during the same period: some struggled while others thrived. 'Meanwhile' introduces this parallel development. 'Therefore' suggests cause, 'In other words' suggests a restatement, and 'For instance' suggests an example of struggling."
+    },
+    {
+      "skill": "Transitions", "diff": "medium",
+      "passage": "The town council had planned to tear down the old train station to build a parking lot. After residents collected thousands of signatures opposing the plan, ______ the council voted to restore the station as a community center.",
+      "question": "@transition",
+      "choices": ["however,", "similarly,", "for example,", "moreover,"], "answer": "A",
+      "explain": "The council's final vote reverses its original plan, so a contrast word fits: 'however.' 'Similarly' and 'moreover' signal agreement or addition, and 'for example' would make the vote an example of something, which it isn't."
+    },
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "Early studies suggested that a certain vitamin supplement lowered the risk of heart disease. Those studies, though, compared people who chose to take the supplement with people who did not, and supplement users also tended to exercise more and smoke less. ______ when researchers later assigned the supplement at random, they found no effect on heart disease.",
+      "question": "@transition",
+      "choices": ["Indeed,", "Nevertheless,", "In contrast,", "Previously,"], "answer": "A",
+      "explain": "The second sentence casts doubt on the early studies, and the third confirms that doubt: a better study found no effect. 'Indeed' reinforces the point just made. 'Nevertheless' and 'In contrast' would signal a reversal of that doubt, and 'Previously' wrongly places the later studies earlier."
+    },
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "The painter Ruth Okafor rarely titled her works, believing that titles told viewers what to see. Her gallery, eager to make the paintings easier to sell, gave them names like <i>Blue Morning</i> and <i>River Study</i>. ______ in her journals, Okafor referred to each painting only by the date she finished it.",
+      "question": "@transition",
+      "choices": ["Privately, though,", "As a result,", "Similarly,", "For example,"], "answer": "A",
+      "explain": "The gallery's public titles contrast with how Okafor herself referred to the paintings in her own journals. 'Privately, though' captures both the contrast and the personal setting. 'As a result' suggests the gallery caused her habit, 'Similarly' suggests she also used titles, and 'For example' doesn't fit."
+    },
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "Volcanic eruptions release carbon dioxide, a gas that traps heat. One might therefore expect large eruptions to warm the planet. ______ major eruptions often cool Earth for a year or two, because they also release sulfur gases that form tiny particles, which reflect sunlight back into space.",
+      "question": "@transition",
+      "choices": ["In fact,", "Likewise,", "Consequently,", "Additionally,"], "answer": "A",
+      "explain": "The text sets up an expectation (eruptions should warm Earth) and then reveals the surprising reality (they often cool it). 'In fact' introduces a statement that corrects an expectation. 'Likewise' and 'Additionally' signal agreement, and 'Consequently' would make the cooling a result of the expectation."
+    },
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "Economists often measure a country's well-being by its gross domestic product, the total value of the goods and services it produces. This measure, ______ ignores work that isn't paid for, such as caring for children or elderly relatives, even though such work is essential to every economy.",
+      "question": "@transition",
+      "choices": ["however,", "for instance,", "therefore,", "in other words,"], "answer": "A",
+      "explain": "The second sentence points out a weakness in the measure introduced in the first, so a contrast fits: 'however.' 'For instance' and 'in other words' would make the weakness an example or a restatement, and 'therefore' would suggest the weakness follows logically from the definition."
+    }
+  ]
+}

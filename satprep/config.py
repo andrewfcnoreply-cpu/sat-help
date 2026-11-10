@@ -10,9 +10,10 @@ file to edit. Nothing else needs to change.
 # AI settings
 # ---------------------------------------------------------------------------
 
-# Which Claude model writes the questions. Opus is the most careful at
-# writing correct math and well-formed reading passages.
-MODEL = "claude-opus-5-5"
+# Which Claude model writes new questions. Sonnet is about half the price
+# of Opus and still strong. For the most careful questions (at about twice
+# the cost), change this to "claude-opus-5-5".
+MODEL = "claude-sonnet-5-5"
 
 # How hard Claude "thinks" before answering: "low", "medium", "high".
 # Higher = better questions but slower and a bit more expensive.

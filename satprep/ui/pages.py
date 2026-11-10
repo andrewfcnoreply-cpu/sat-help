@@ -134,11 +134,10 @@ class HomePage(QWidget):
             self.warning.setText("")
             self.warning.hide()
         else:
-            c = theme.colors()
             self.warning.setText(
-                f"<span style='color:{c['bad']}'><b>No API key found.</b></span> Set the "
-                f"ANTHROPIC_API_KEY environment variable (in Xcode: Product > Scheme > "
-                f"Edit Scheme > Run > Arguments). Saved questions still work without it.")
+                f"<b>No API key set.</b> You can practice with the saved questions. "
+                f"To have Claude write new ones, set ANTHROPIC_API_KEY (in Xcode: "
+                f"Product > Scheme > Edit Scheme > Run > Arguments).")
             self.warning.show()
 
 
