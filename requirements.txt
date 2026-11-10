@@ -1,0 +1,5 @@
+# Only two outside packages, both official and widely used:
+#   anthropic - Anthropic's official Python SDK for calling Claude
+#   PySide6   - The official Qt for Python library (the desktop window toolkit)
+anthropic==2.8.0
+PySide6==6.12.0
