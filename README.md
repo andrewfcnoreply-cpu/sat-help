@@ -24,6 +24,8 @@ main.py               starts the app
 run.sh                runs the app with the project's Python environment
 requirements.txt      the two outside packages (anthropic, PySide6)
 questions/            the built-in question pack (JSON files)
+tools/check_pack.py   checks the question files for mistakes
+.claude/skills/       the /refresh-questions command for Claude Code
 satprep/
   config.py           settings you can change (model, timing, question counts)
   skills.py           the SAT skills questions are written for
@@ -138,9 +140,22 @@ To spend less:
 
 For the most careful questions, at about twice the cost, set `MODEL = "claude-opus-5-5"` in `satprep/config.py`.
 
-## Adding your own questions
+## Getting more questions
 
-You can add questions by hand: copy one of the files in `questions/`, change the content, and keep the same format. The app adds any new questions the next time it starts. `satprep/pack.py` explains the format, including short codes for common question wordings like `@word` and `@transition`.
+When you run low on unseen questions, ask Claude for a new batch. This is covered by your Claude subscription, so there's no API cost.
+
+1. Open Claude Code (claude.ai/code, or the Claude app) and start a session with the `sat-help` repository selected.
+2. Type `/refresh-questions` and send it.
+3. Wait for Claude to say it pushed the new questions.
+4. On your Mac, start the app as usual with `./run.sh`. It downloads the new questions from GitHub automatically.
+
+By default you get 60 questions, about 80% hard, spread across every skill. You can add details after the command, for example `/refresh-questions 80 math` or `/refresh-questions 40 reading`. The instructions Claude follows are in `.claude/skills/refresh-questions/SKILL.md`.
+
+`./run.sh` checks GitHub for updates each time it starts. If it can't connect, it says so and opens the app with the questions you already have.
+
+### Adding questions by hand
+
+You can also copy one of the files in `questions/`, change the content, and keep the same format. `satprep/pack.py` explains the format, including short codes for common question wordings like `@word` and `@transition`. Run `python3 tools/check_pack.py` to check your file before starting the app.
 
 ## Changing settings
 
