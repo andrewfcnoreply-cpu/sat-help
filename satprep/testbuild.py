@@ -91,7 +91,7 @@ def has_api_key() -> bool:
     return bool(os.environ.get("ANTHROPIC_API_KEY"))
 
 
-def _from_bank(bank: Bank, slot: Slot, flexible: bool) -> Question | None:
+def _from_bank(bank: Bank, slot: Slot, flexible: bool, keep_difficulty: bool) -> Question | None:
     """
     Find a saved question for a slot, trying the closest match first:
       1. the exact skill, difficulty, and type
@@ -99,6 +99,8 @@ def _from_bank(bank: Bank, slot: Slot, flexible: bool) -> Question | None:
     With flexible=True (no API key, so we can't write new questions), also:
       3. any skill in the section at the same difficulty
       4. the same skill at any difficulty, then anything left in the section
+    With keep_difficulty=True ("Hard only" tests), step 4 is skipped so a
+    hard test never quietly gets easier questions.
     """
     domain = domain_of(slot.section, slot.skill)
     domain_skills = next(s for d, _w, s in CATALOG[slot.section] if d == domain)
@@ -107,11 +109,9 @@ def _from_bank(bank: Bank, slot: Slot, flexible: bool) -> Question | None:
         dict(skills=domain_skills, difficulty=slot.difficulty, qtype=slot.qtype),
     ]
     if flexible:
-        tries += [
-            dict(difficulty=slot.difficulty),
-            dict(skills=[slot.skill]),
-            dict(),
-        ]
+        tries.append(dict(difficulty=slot.difficulty))
+        if not keep_difficulty:
+            tries += [dict(skills=[slot.skill]), dict()]
     for filters in tries:
         q = bank.take_unused(slot.section, **filters)
         if q:
@@ -133,11 +133,17 @@ def build_module(bank: Bank, section: str, number: int, level: str, short: bool,
     from_bank: list[Question] = []
     needed: list[Slot] = []
     for slot in slots:
-        q = _from_bank(bank, slot, flexible=not can_generate)
+        q = _from_bank(bank, slot, flexible=not can_generate, keep_difficulty=level == "hard")
         (from_bank.append(q) if q else needed.append(slot))
 
     if needed and not can_generate:
         bank.mark_served([q.id for q in from_bank], undo=True)
+        if level == "hard":
+            raise GenerationError(
+                f"You've used all the unseen hard questions for this section "
+                f"({len(needed)} more needed for this module). On the home screen, choose "
+                f"'Make seen questions available again', switch to Adaptive, or add an "
+                f"API key so Claude can write new hard questions.")
         raise GenerationError(
             f"There aren't enough unseen saved questions for this module "
             f"({len(needed)} more needed), and no API key is set to write new ones. "

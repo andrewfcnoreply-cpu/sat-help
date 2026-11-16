@@ -129,12 +129,20 @@ class Bank:
                     [(i,) for i in ids],
                 )
 
-    def count(self, unused_only: bool = False) -> int:
+    def count(self, unused_only: bool = False, section: str | None = None,
+              difficulty: str | None = None) -> int:
+        """How many questions are saved, optionally only unseen ones of one kind."""
+        sql, args = "SELECT COUNT(*) FROM questions WHERE 1=1", []
+        if unused_only:
+            sql += " AND times_served=0"
+        if section:
+            sql += " AND section=?"
+            args.append(section)
+        if difficulty:
+            sql += " AND difficulty=?"
+            args.append(difficulty)
         with self.lock:
-            sql = "SELECT COUNT(*) FROM questions"
-            if unused_only:
-                sql += " WHERE times_served=0"
-            return self.db.execute(sql).fetchone()[0]
+            return self.db.execute(sql, args).fetchone()[0]
 
     def reset_served(self) -> None:
         """Make every saved question available again."""

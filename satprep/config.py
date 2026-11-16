@@ -48,7 +48,7 @@ SECTIONS = {
 # "Short" practice tests use fewer questions so you can practice (and test
 # the app) without spending an hour or many API calls. The timer is scaled
 # down to keep the same time per question.
-SHORT_TEST_QUESTIONS = {"rw": 8, "math": 6}
+SHORT_TEST_QUESTIONS = {"rw": 10, "math": 10}
 
 # If you get at least this fraction of module 1 right, module 2 is the
 # harder version. The real SAT uses a secret formula; this is a stand-in.

@@ -1,16 +1,16 @@
 # SAT Practice
 
-A Mac app for practicing the digital SAT. It comes with 200 built-in practice questions, and Claude can write new ones on demand. You answer them in a test screen laid out like Bluebook: a timer, Mark for Review, the answer eliminator, a question navigator, a calculator, and the math reference sheet.
+A Mac app for practicing the digital SAT. It comes with 304 built-in practice questions, and Claude can write new ones on demand. You answer them in a test screen laid out like Bluebook: a timer, Mark for Review, the answer eliminator, a question navigator, a calculator, and the math reference sheet.
 
 This is a personal study tool. It isn't affiliated with or endorsed by College Board, and its questions aren't real SAT questions.
 
 ## What it does
 
-- **Adaptive tests.** Each section has two modules. If you get at least 60% of Module 1 right, Module 2 is harder; otherwise it's easier. You can also practice at a fixed Easy, Medium, or Hard level.
+- **Adaptive tests.** Each section has two modules. If you get at least 60% of Module 1 right, Module 2 is harder; otherwise it's easier. You can also choose Hard only, where every question is hard.
 - **Sections:** Reading and Writing, Math, or both as a full test.
-- **Lengths:** Short (8 Reading and Writing or 6 Math questions per module) or full length (27 and 22 questions, with real timing).
+- **Lengths:** Short (10 questions per module) or full length (27 and 22 questions, with real timing).
 - **Math question types:** multiple choice and student-produced response (you type the answer). Answers like 3/4, .75, and 0.75 all count, as on the SAT.
-- **Built-in questions.** 200 original questions ship with the app (110 Reading and Writing, 90 Math), covering every skill at all three difficulty levels. That's enough for about two full-length tests or many short ones, with no API key needed.
+- **Built-in questions.** 304 original questions ship with the app (160 Reading and Writing, 144 Math), covering every skill. 175 of them are hard. That's enough for about three full-length tests or many short ones, with no API key needed.
 - **Question bank.** Built-in questions and every question Claude writes are saved on your Mac. Unseen saved questions are used first, so Claude only writes what's missing.
 - **After the test:** an estimated score, a review of every question with explanations, and accuracy by skill across all your tests.
 - **Light and dark mode.** It follows your Mac by default, or you can pick one.
@@ -73,7 +73,7 @@ To make sure everything works before setting up Xcode, run the app once from Ter
 ./run.sh
 ```
 
-The first time it runs, it prints "Added 200 built-in questions to your bank."
+The first time it runs, it prints "Added 304 built-in questions to your bank." When an update adds new questions, it prints how many it added.
 
 
 ## Running it from Xcode
@@ -164,6 +164,6 @@ Delete that file to start over with an empty bank and no history.
 ## Good to know
 
 - The built-in questions were written by Claude, and their math answers were double-checked with independent calculations. Questions Claude writes on demand are solved before the answer key is written, and the app checks every question's format. Even so, AI can occasionally make a mistake. If an answer key looks wrong, trust the math and move on.
-- The built-in pack has fewer hard questions left after the first full test, so a second full test's harder Module 2 will include some medium questions. With an API key, Claude fills those gaps instead.
+- **Hard only** tests use only hard questions. Without an API key, the app checks before a test starts that enough unseen hard questions are left, and tells you if not. With an API key, Claude writes more.
 - The score is an estimate. The real SAT uses a scoring model that isn't public.
 - The calculator handles arithmetic, powers, roots, and trig (in degrees by default). For graphing, its button opens the free Desmos calculator in your browser.

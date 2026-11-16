@@ -84,11 +84,10 @@ class HomePage(QWidget):
             ("rw", "Reading and Writing"), ("math", "Math"), ("both", "Full test (both)"),
         ], "rw")
         self.get_level = _chip_group(lay, "Difficulty", [
-            ("mixed", "Adaptive (like the real test)"), ("easy", "Easy"),
-            ("medium", "Medium"), ("hard", "Hard"),
+            ("mixed", "Adaptive (like the real test)"), ("hard", "Hard only"),
         ], "mixed")
         self.get_length = _chip_group(lay, "Length", [
-            ("short", "Short (6-8 questions per module)"), ("full", "Full length"),
+            ("short", "Short (10 questions per module)"), ("full", "Full length"),
         ], "short")
 
         lay.addSpacing(10)

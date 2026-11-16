@@ -1,0 +1,220 @@
+{
+  "section": "rw",
+  "questions": [
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "Although the senator's memoir was promoted as a candid account of her career, reviewers found it curiously ______: it dwelt at length on her childhood but passed over the controversies of her final term in a few vague sentences.",
+      "question": "@word",
+      "choices": ["reticent", "forthcoming", "exhaustive", "polemical"], "answer": "A",
+      "explain": "The memoir avoids discussing the controversies, so it holds back. 'Reticent' means reluctant to reveal information. 'Forthcoming' means the opposite. 'Exhaustive' clashes with 'passed over... in a few vague sentences,' and 'polemical' means aggressively argumentative, which doesn't describe avoidance."
+    },
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "Ecologist Mariana Duarte's model of forest recovery has proven remarkably ______: originally developed for tropical rainforests, it has since accurately predicted regrowth patterns in temperate and northern forests as well.",
+      "question": "@word",
+      "choices": ["versatile", "idiosyncratic", "provisional", "cumbersome"], "answer": "A",
+      "explain": "The model works well in many kinds of forests beyond the one it was built for, so it is versatile, or adaptable to many uses. 'Idiosyncratic' means peculiar to one case, the opposite. 'Provisional' means temporary, and 'cumbersome' means clumsy; neither explains its success across forests."
+    },
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "The historian's account of the 1912 textile strike is admirably ______, drawing on union records, company memos, newspaper coverage, and interviews with the workers' descendants.",
+      "question": "@word",
+      "choices": ["wide-ranging", "partisan", "conjectural", "cursory"], "answer": "A",
+      "explain": "The account uses many different kinds of sources, so it is wide-ranging. 'Partisan' would mean favoring one side, which a mix of union and company sources argues against. 'Conjectural' means based on guesses, not documents, and 'cursory' means hasty, which conflicts with 'admirably' and the long list of sources."
+    },
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "Rather than ______ the inconsistencies in the witnesses' accounts, the investigator highlighted them, arguing that the discrepancies revealed which details each witness had actually observed.",
+      "question": "@word",
+      "choices": ["gloss over", "scrutinize", "catalog", "exaggerate"], "answer": "A",
+      "explain": "'Rather than' sets up a contrast with 'highlighted,' so the blank must mean the opposite: downplaying the inconsistencies. 'Gloss over' means to treat something as unimportant. 'Scrutinize' and 'catalog' are close to what the investigator actually did, and 'exaggerate' would go even further than highlighting."
+    },
+    {
+      "skill": "Words in Context", "diff": "hard",
+      "passage": "To many early critics, the architect's unadorned concrete buildings seemed ______, even hostile; only later did viewers come to appreciate how their plain surfaces captured shifting patterns of light and shadow.",
+      "question": "@word",
+      "choices": ["forbidding", "whimsical", "ornate", "derivative"], "answer": "A",
+      "explain": "The word must fit with 'even hostile,' which intensifies it, so it should mean unwelcoming. 'Forbidding' means harsh and unfriendly in appearance. 'Whimsical' means playful, 'ornate' contradicts 'unadorned,' and 'derivative' means unoriginal, which doesn't lead naturally to 'hostile.'"
+    },
+
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "The following text is from a short story.\nEleanor had rehearsed the apology for days, polishing each sentence until it gleamed. <u>But when her brother opened the door, flour on his hands and a radio playing behind him, every word she had prepared seemed to belong to someone else.</u> She stood on the step and said only, \"I brought the good bread.\"",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "choices": ["It marks a shift in which Eleanor's careful preparation suddenly feels unsuited to the ordinary scene in front of her.", "It reveals that Eleanor's brother has been expecting her to apologize.", "It explains the cause of the disagreement between Eleanor and her brother.", "It suggests that Eleanor has decided she has nothing to apologize for."], "answer": "A",
+      "explain": "Before the sentence, Eleanor's apology is polished; after it, she abandons the speech for a simple remark. The sentence shows the formal words no longer fitting the homey moment of flour and a radio. Nothing shows what the brother expected or what the quarrel was about, and she still came to make peace, so she hasn't decided she has nothing to apologize for."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "Many studies have found that bilingual children outperform monolingual children on tasks that require switching between sets of rules. Psychologist Tamar Levi notes, however, that most of these studies compared children from different social and economic backgrounds. When Levi's team compared bilingual and monolingual children from the same neighborhoods and schools, the bilingual advantage largely disappeared.",
+      "question": "@purpose",
+      "choices": ["To describe a study designed to address a possible weakness in earlier research and report results that cast doubt on an earlier finding", "To argue that schools should stop encouraging children to learn a second language", "To explain the process by which children learn to switch between two languages", "To show that a child's social and economic background has no effect on rule-switching tasks"], "answer": "A",
+      "explain": "The text identifies a problem with earlier studies (different backgrounds), describes Levi's study that controlled for it, and reports that the advantage mostly vanished. It makes no recommendation about schools and doesn't explain language learning. Its point is that background may have mattered, so the last choice reverses it."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "For centuries, the painting <i>Harbor at Dusk</i> was credited to the artist Pieter Valk because it bore his signature. In 2018, conservators using infrared imaging discovered that Valk's signature had been painted over an earlier one belonging to a little-known artist named Anna Roos. Further research in guild records showed that Roos had worked in Valk's studio, and most scholars now credit the painting to her.",
+      "question": "@structure",
+      "choices": ["It describes a long-accepted attribution, presents a discovery that undermined it, and reports additional evidence that led to a new attribution.", "It compares the techniques of two artists and argues that one was more skilled than the other.", "It describes a scholarly debate about a painting that remains unresolved.", "It explains how infrared imaging works and then gives several examples of its use."], "answer": "A",
+      "explain": "The text moves from the old attribution to Valk, to the hidden signature, to the guild records that support crediting Roos. It never compares skill, the debate is presented as largely settled ('most scholars now credit'), and infrared imaging is mentioned only as the tool used, without explanation or other examples."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "The following text is from a poem.\nMy mother's hands were maps I never read:\nthe burn along the wrist from bread pans,\nthe knuckle swollen by forty winters,\nthe ring she twisted when the news was bad.\nOnly now, holding my own hands to the light,\ndo I begin to trace the roads she took.",
+      "question": "@structure",
+      "choices": ["The speaker describes details of her mother's hands and then reflects that she is only now beginning to understand them through her own experience.", "The speaker recounts a journey she took with her mother and then describes their destination.", "The speaker contrasts her mother's hands with her own to show how different their lives have been.", "The speaker describes a map she found among her mother's belongings and explains why she kept it."], "answer": "A",
+      "explain": "The first four lines list marks on the mother's hands; the last two turn to the speaker looking at her own hands and beginning to 'trace the roads she took.' The maps and roads are metaphors, not a real journey or a real map, and the speaker's own hands lead to understanding rather than contrast."
+    },
+    {
+      "skill": "Text Structure and Purpose", "diff": "hard",
+      "passage": "Economists have often assumed that people value a dollar saved the same no matter how it is saved. <u>Yet many shoppers will drive across town to save $10 on a $30 purchase while refusing to make the same trip to save $10 on a $1,000 purchase.</u> Such behavior suggests that people judge savings relative to an item's price rather than in absolute terms.",
+      "question": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+      "choices": ["It gives an example of behavior that is inconsistent with the assumption described in the previous sentence.", "It states the conclusion that the rest of the text goes on to support.", "It offers evidence that supports the assumption economists have made.", "It describes an exception that the text later dismisses as unimportant."], "answer": "A",
+      "explain": "The same $10 is treated differently depending on the price, which contradicts the assumption that a dollar saved is valued the same way regardless. The conclusion comes in the final sentence, the example undercuts rather than supports the assumption, and the text builds on the example rather than dismissing it."
+    },
+
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nPopulations of the cerulean warbler, a small songbird, have fallen sharply over the past fifty years. Because the birds breed in forests that have been heavily logged, many researchers attribute the decline mainly to the loss of breeding habitat.<br><br>Text 2\nA team led by ecologist Rosa Iturbe attached tiny tracking devices to cerulean warblers. Most of the birds that died during the study did so in winter, in mountain forests that are being cleared for farmland, thousands of kilometers from the breeding grounds.",
+      "question": "Based on the texts, how would Iturbe's team (Text 2) most likely respond to the explanation described in Text 1?",
+      "choices": ["By suggesting that the decline may stem largely from conditions outside the breeding grounds", "By agreeing that logging in breeding forests is the only cause of the decline", "By arguing that cerulean warbler populations have not actually declined", "By claiming that tracking devices are too unreliable to study migrating birds"], "answer": "A",
+      "explain": "Text 1 blames breeding-ground habitat loss. Iturbe's team found most deaths happened in the winter range, far away, which points to causes elsewhere. They don't call breeding-ground logging the only cause, don't dispute the decline, and relied on tracking devices themselves."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nLiterary scholar Martin Shaw has studied the private letters of novelist Helena Croft. In them, Croft repeatedly describes her novel <i>The Glass Parliament</i> as an attack on the politicians of her day. Shaw concludes that the novel should be read primarily as political satire.<br><br>Text 2\nCritic Adaeze Nwosu argues that a novel's meaning is not fixed by what its author intended. Once a book is published, she contends, readers may find meanings in it that the author never planned, and these readings can be just as valid as the author's own.",
+      "question": "Based on the texts, how would Nwosu (Text 2) most likely respond to Shaw's conclusion in Text 1?",
+      "choices": ["By questioning whether Croft's stated intentions should determine how the novel is read", "By agreeing that private letters are the best guide to a novel's meaning", "By arguing that <i>The Glass Parliament</i> contains no political content", "By claiming that Croft never wrote about politicians in her letters"], "answer": "A",
+      "explain": "Shaw bases his reading on Croft's intentions as stated in her letters. Nwosu argues that intentions don't fix a work's meaning, so she would question his approach. She doesn't endorse letters as the best guide, and she makes no claims about the novel's content or about what the letters say."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nTraffic on Route 9 has grown steadily worse. Regional planners propose adding two lanes in each direction, arguing that the extra space will allow cars to move freely and end the daily backups.<br><br>Text 2\nTransportation researcher Kwame Asante has studied highway expansions across dozens of regions. In nearly every case, the added lanes attracted new drivers, people who had previously traveled at other times or by other routes, and congestion returned to its earlier level within five to ten years.",
+      "question": "Based on the texts, how would Asante (Text 2) most likely respond to the planners' argument in Text 1?",
+      "choices": ["By warning that any relief from congestion is likely to be temporary", "By agreeing that adding lanes is a permanent solution to traffic", "By arguing that Route 9 has less traffic than the planners claim", "By claiming that new lanes discourage people from driving"], "answer": "A",
+      "explain": "Asante found that new lanes draw new drivers and that congestion returns within a few years, so the planners' expected relief probably wouldn't last. That contradicts calling it permanent. He doesn't dispute Route 9's traffic, and his research shows new lanes encourage driving rather than discourage it."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nMany plants fold their leaves upward at night. Botanist Lena Fischer proposes that this movement helps the plants conserve heat by reducing the leaf surface exposed to the cold night sky.<br><br>Text 2\nIn an experiment, plant biologist Joon-ho Park gently prevented some plants from folding their leaves at night. The leaves of these plants were no colder than those of plants allowed to fold. However, they lost far more tissue to nighttime insects than the folded leaves did.",
+      "question": "Based on the texts, how would Park (Text 2) most likely respond to Fischer's proposal in Text 1?",
+      "choices": ["By suggesting that leaf folding may serve a purpose other than conserving heat", "By agreeing that leaf folding is mainly a way to stay warm at night", "By arguing that plants do not actually fold their leaves at night", "By claiming that insects are attracted to warmer leaves"], "answer": "A",
+      "explain": "Park found that unfolded leaves weren't colder, which undercuts the heat explanation, but did suffer more insect damage, which points to another purpose, such as protection. He doesn't agree with Fischer, his experiment depends on plants folding their leaves, and the leaves' temperatures didn't differ, so warmth can't explain the insect damage."
+    },
+    {
+      "skill": "Cross-Text Connections", "diff": "hard",
+      "passage": "Text 1\nHistorian Ruth Adler worries that the decline of handwritten letters will leave future historians with too little to work with. Without the personal letters that earlier generations wrote and saved, she argues, the private lives of ordinary people today may be largely lost to history.<br><br>Text 2\nArchivist Diego Salas points out that ordinary people now produce enormous numbers of emails, text messages, and social media posts, and much of this material is being preserved. The challenge for future historians, Salas argues, will be finding meaningful records among billions of them.",
+      "question": "Based on the texts, how would Salas (Text 2) most likely respond to Adler's concern in Text 1?",
+      "choices": ["By arguing that future historians are more likely to face an overwhelming quantity of personal records than a shortage of them", "By agreeing that the private lives of ordinary people today will be lost to history", "By claiming that handwritten letters are more reliable than emails", "By suggesting that historians should stop studying ordinary people's lives"], "answer": "A",
+      "explain": "Adler fears too few records; Salas says the problem will be too many. He doesn't agree that private lives will be lost, he never compares the reliability of letters and emails, and he assumes historians will keep studying ordinary people."
+    },
+
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "Researchers have long debated whether animals other than humans can delay gratification, giving up a reward now for a better one later. In one study, cuttlefish were offered a choice between a less preferred food available immediately and a favorite food that appeared only after a delay. Many cuttlefish consistently waited for the better food, and those that waited longest also learned new tasks fastest. The researchers caution, however, that this link does not show that one ability causes the other.",
+      "question": "@main",
+      "choices": ["Cuttlefish showed an ability to delay gratification that was linked to faster learning, though the researchers caution against assuming a cause.", "Cuttlefish that learn quickly were trained by researchers to wait for food.", "Cuttlefish prefer food that is available immediately to food that requires waiting.", "The study proves that the ability to delay gratification makes animals better learners."], "answer": "A",
+      "explain": "The text reports that cuttlefish waited for better food, that waiting was linked to faster learning, and that the link isn't proof of cause. The cuttlefish weren't trained to wait, many chose the delayed food, and the researchers specifically warn against the causal claim in the last choice."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "The following text is from a short story.\nFor thirty years, Mr. Okonjo had walked to the same park bench each morning and fed the pigeons from a paper bag. When the city replaced the old wooden benches with sleek metal ones, his neighbors expected him to complain at the next town meeting. Instead, he quietly moved his morning walk to the cemetery across the road, where the benches were still wooden and, as he put it, \"the company is quieter.\"",
+      "question": "Based on the text, how does Mr. Okonjo respond to the change in the park?",
+      "choices": ["He quietly adjusts his routine rather than objecting to the change.", "He protests the new benches at a town meeting.", "He gives up his morning walk entirely.", "He comes to prefer the new metal benches."], "answer": "A",
+      "explain": "Rather than complaining, as his neighbors expected, he moves his walk to the cemetery, where the benches are still wooden. He doesn't protest, he keeps walking each morning, and his move shows he doesn't prefer the metal benches."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "Historians once portrayed medieval European peasants as isolated villagers who rarely traveled more than a few miles from home. Recent studies of court and church records, however, show peasants regularly traveling to distant markets, pursuing lawsuits in regional courts, and making pilgrimages to faraway shrines. These records suggest that peasant life involved far more movement than the traditional picture allowed.",
+      "question": "@main",
+      "choices": ["New evidence suggests that medieval peasants traveled much more than historians once believed.", "Medieval peasants spent most of their time pursuing lawsuits in regional courts.", "Court records from the medieval period are too incomplete to be useful to historians.", "Medieval peasants rarely traveled more than a few miles from their villages."], "answer": "A",
+      "explain": "The text contrasts the old picture of isolated peasants with records showing frequent travel. Lawsuits are just one example, not how peasants spent most of their time. The text relies on court records rather than dismissing them, and the last choice is the old view the text argues against."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "When the city of Marlow introduced a tax on sugary drinks, officials expected purchases of the drinks within the city to fall, and they did, by about a third. Economist Harriet Boyd found, though, that sales of sugary drinks in stores just outside the city limits rose at the same time, making up for about half of the drop inside the city. Boyd concludes that the tax did reduce consumption, but by less than the city's own figures suggest.",
+      "question": "@main",
+      "choices": ["The tax reduced sugary drink consumption, but increased purchases just outside the city made its effect smaller than it first appeared.", "The tax had no effect on how many sugary drinks Marlow residents consumed.", "Sales of sugary drinks inside Marlow rose after the tax was introduced.", "City officials deliberately exaggerated the success of the tax."], "answer": "A",
+      "explain": "Boyd finds that purchases outside the city offset about half the drop, so the tax still worked, but less than it seemed. She says it 'did reduce consumption,' sales inside the city fell, and nothing suggests officials were dishonest; their figures simply left out sales outside the city."
+    },
+    {
+      "skill": "Central Ideas and Details", "diff": "hard",
+      "passage": "Critics have often praised photographer Lin Wei's black-and-white street scenes as documents of a vanishing city. Wei herself rejected this description. She frequently staged her scenes, asking neighbors to repeat a gesture or stand in a particular doorway, and she called her photographs \"arguments about the city, not records of it.\"",
+      "question": "According to the text, why did Wei reject the critics' description of her photographs?",
+      "choices": ["She saw her photographs as deliberately constructed interpretations rather than straightforward records.", "She believed the city she photographed was not actually changing.", "She preferred to be known for her color photographs.", "She thought critics had misidentified the city in her photographs."], "answer": "A",
+      "explain": "Wei staged her scenes and called her photographs 'arguments about the city, not records of it,' which shows she saw them as interpretations. The text says nothing about whether the city was changing, about color photographs, or about critics naming the wrong city."
+    },
+
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "In some languages, speakers must mark whether they witnessed an event themselves or learned about it from someone else. Linguist Omar Haddad hypothesizes that speakers of such languages are better than other speakers at remembering where their information came from.",
+      "question": "Which finding, if true, would most directly support Haddad's hypothesis?",
+      "choices": ["In a memory test, speakers of these languages more accurately recalled whether they had seen events or heard about them, though they recalled the events themselves about as well as other speakers.", "Speakers of these languages recalled more events overall than speakers of other languages.", "Most languages that require this kind of marking are spoken in mountainous regions.", "Children who speak these languages learn to use the markings by about age five."], "answer": "A",
+      "explain": "The hypothesis is specifically about remembering the source of information. The first finding shows better source memory, and the matched memory for the events themselves rules out a general memory advantage. Remembering more events doesn't address source memory, and geography and age of learning are unrelated to the hypothesis."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "In the novel <i>Northbound</i>, the narrator experiences the city as both thrilling and draining when she first arrives. In the novel, the narrator says, ______",
+      "question": "Which quotation from the novel most effectively illustrates the claim?",
+      "choices": ["\"Every street offered some new astonishment, and by nightfall I was too tired to remember a single one.\"", "\"The city was louder than anything I had imagined, and I loved every sound.\"", "\"I found a small room above a bakery and paid the first month's rent in coins.\"", "\"After a week I longed for the quiet of the farm, where nothing ever surprised me.\""], "answer": "A",
+      "explain": "The claim has two parts: thrilling and draining. 'New astonishment' on every street shows the thrill, and being 'too tired to remember' shows the exhaustion. The loud-city quotation is only positive, the rented room is neutral, and longing for the farm expresses only weariness."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "The trout population of Lake Corran has declined by half over the past twenty years. Biologist Fiona Reyes claims that the main cause is rising water temperature, since the lake has warmed by about two degrees Celsius during that period.",
+      "question": "Which finding, if true, would most directly weaken Reyes's claim?",
+      "choices": ["In a nearby lake that warmed by the same amount over the same period, the trout population stayed stable.", "Trout in laboratory tanks grew more slowly when the water was warmer.", "The steepest declines in Lake Corran's trout population occurred in the warmest years.", "Several other fish species in Lake Corran also declined over the same period."], "answer": "A",
+      "explain": "If a similar lake warmed just as much without losing trout, warming alone probably doesn't explain Lake Corran's decline. The lab result and the timing of the steepest declines would support Reyes. Other species declining doesn't separate warming from other possible causes, so it neither clearly weakens nor supports her claim."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "In the poem \"Fence Line,\" the speaker expresses regret that she never told her father how much she admired him. In the poem, the speaker writes, ______",
+      "question": "Which quotation from the poem most effectively illustrates the claim?",
+      "choices": ["\"I watched you mend the fence each spring / and kept my praise inside me like a stone; / now the fence still stands, and you are gone.\"", "\"You taught me how to set a post in clay / and how to tell a storm by the smell of the air.\"", "\"I wish I'd planted roses by the gate / the year you asked and I said there was no time.\"", "\"No one in the valley built a fence as straight / or worked a field as patiently as you.\""], "answer": "A",
+      "explain": "The claim needs admiration, silence about it, and regret. Watching him work shows admiration, 'kept my praise inside me' shows she never said it, and 'now... you are gone' shows the regret of a lost chance. The second quotation shows only shared memories, the third regrets something else (roses), and the fourth shows admiration without regret."
+    },
+    {
+      "skill": "Command of Evidence (Textual)", "diff": "hard",
+      "passage": "Sociologist Imani Brooks claims that community gardens increase interactions between neighbors of different ages.",
+      "question": "Which finding, if true, would most directly support Brooks's claim?",
+      "choices": ["After a community garden opened, residents reported many more conversations with neighbors at least twenty years older or younger than themselves, while residents of a similar neighborhood without a garden reported no change.", "Most of the people who worked in the community garden were over fifty years old.", "The community garden produced more than two tons of vegetables in its first year.", "Residents who worked in the garden said they enjoyed spending time outdoors."], "answer": "A",
+      "explain": "The claim is about contact between people of different ages. The first finding shows such contact rose after the garden opened, with a comparison neighborhood ruling out a general trend. The gardeners' ages, the harvest, and enjoyment of the outdoors don't show any increase in interactions across ages."
+    },
+
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "Lizards of one desert species that live on dark volcanic rock are much darker than those that live on nearby pale sand. To investigate, researchers raised lizards hatched from eggs laid by sand-dwelling parents on dark rock in a laboratory. These lizards grew up just as pale as lizards living on sand. This finding suggests that the lizards' coloring ______",
+      "question": "@complete",
+      "choices": ["is largely inherited rather than determined by the surface on which an individual grows up.", "changes gradually as each lizard ages.", "depends mainly on the food the lizards eat.", "is the same in every habitat where the species lives."], "answer": "A",
+      "explain": "Lizards from pale parents stayed pale even on dark rock, so their surroundings didn't change their color, which points to inheritance. The text says nothing about aging or diet, and the dark and pale populations show that color differs between habitats."
+    },
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "The account books of a fifteenth-century wool merchant survive in an Italian archive. From 1420 to 1435, they record frequent purchases of expensive dyes. After 1436, no dye purchases appear, but entries for undyed wool sold to dyers' workshops increase sharply. This pattern suggests that around 1436, the merchant ______",
+      "question": "@complete",
+      "choices": ["stopped dyeing wool himself and began selling undyed wool to others who dyed it.", "began dyeing much more wool than he had before.", "went out of business and sold his remaining dyes.", "started buying cheaper dyes from a different supplier."], "answer": "A",
+      "explain": "Dye purchases stop while sales of undyed wool to dyers rise, so he seems to have handed the dyeing to others. Without buying dyes, he couldn't be dyeing more. He clearly stayed in business, and switching suppliers would still show dye purchases in the books."
+    },
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "A farming team tested whether a new fertilizer increases wheat yields. Fields treated with the fertilizer produced more wheat than untreated fields. However, the treated fields were also watered more often, because they were closer to the farm's water supply. To find out whether the fertilizer itself increased yields, the team should next ______",
+      "question": "@complete",
+      "choices": ["compare treated and untreated fields that receive the same amount of water.", "apply more fertilizer to the fields that are closest to the water supply.", "stop watering all of the fields for the rest of the season.", "measure how much rain fell on the farm during the test."], "answer": "A",
+      "explain": "Water is a second difference between the groups, so it could explain the higher yields. Giving both groups the same water isolates the fertilizer's effect. Adding fertilizer near the water would mix the two factors even more, stopping all watering would harm the crops without separating the causes, and rainfall fell on both groups."
+    },
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "In a species of small freshwater fish, males build nests and guard the eggs that females lay in them. Researchers found that females strongly prefer to lay eggs in nests that already contain eggs, perhaps because eggs already in a nest suggest that the male is a reliable guard. This suggests that a male that already has eggs in his nest ______",
+      "question": "@complete",
+      "choices": ["is likely to attract more females to lay eggs there.", "will usually abandon the nest to build a new one.", "is less likely to be chosen by females than a male with an empty nest.", "will stop guarding the eggs once more are added."], "answer": "A",
+      "explain": "Females prefer nests that already hold eggs, so a male with eggs should attract still more. Nothing suggests males abandon nests or stop guarding, and the preference described is the reverse of the third choice."
+    },
+    {
+      "skill": "Inferences", "diff": "hard",
+      "passage": "When the word \"nice\" entered English in the 1300s, it meant \"foolish\" or \"ignorant.\" Over the following centuries it came to mean \"precise\" or \"delicate,\" as in the phrase \"a nice distinction,\" before taking on its common modern meaning of \"pleasant.\" Because older texts may use the word in any of these senses, a reader who finds \"nice\" in a seventeenth-century document ______",
+      "question": "@complete",
+      "choices": ["should rely on the context rather than assume the word means \"pleasant.\"", "can be certain that the word means \"foolish.\"", "should assume the document was written in the 1300s.", "can ignore the word, since its meaning is impossible to determine."], "answer": "A",
+      "explain": "Since the word has carried several meanings over time, a reader of an older text needs context to tell which applies. Nothing makes 'foolish' certain for the 1600s, the word's presence doesn't date a document to the 1300s, and context can usually settle the meaning, so it isn't impossible to determine."
+    }
+  ]
+}

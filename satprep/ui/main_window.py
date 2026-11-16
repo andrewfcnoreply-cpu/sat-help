@@ -19,7 +19,7 @@ from PySide6.QtWidgets import QMainWindow, QMessageBox, QStackedWidget
 from .. import config
 from ..bank import Bank
 from ..generator import GenerationError
-from ..testbuild import build_module, estimate_score, module_size, next_level
+from ..testbuild import build_module, estimate_score, has_api_key, module_size, next_level
 from .pages import HomePage, LoadingPage, ResultsPage, ReviewPage, StatsPage
 from .test_view import TestPage
 
@@ -112,10 +112,38 @@ class MainWindow(QMainWindow):
     def start_test(self, settings: dict) -> None:
         self.settings = settings
         self.sections = ["rw", "math"] if settings["section"] == "both" else [settings["section"]]
+        if not self._enough_hard_questions():
+            return
         self.finished_modules = []
         # What to build next: (index into self.sections, module number, level)
         self.next_step = (0, 1, settings["level"])
         self._build_next()
+
+    def _enough_hard_questions(self) -> bool:
+        """
+        For a "Hard only" test without an API key, check up front that every
+        section has enough unseen hard questions for both modules, so the test
+        can't run out halfway through.
+        """
+        if self.settings["level"] != "hard" or has_api_key():
+            return True
+        short_of = []
+        for section in self.sections:
+            needed = 2 * module_size(section, self.settings["short"])[0]
+            have = self.bank.count(unused_only=True, section=section, difficulty="hard")
+            if have < needed:
+                short_of.append(f"{config.SECTIONS[section]['name']}: {have} unseen hard "
+                                f"questions left, {needed} needed")
+        if short_of:
+            QMessageBox.information(
+                self, "Not enough hard questions",
+                "There aren't enough unseen hard questions for this test.\n\n"
+                + "\n".join(short_of)
+                + "\n\nTry a shorter test or one section, choose 'Make seen questions "
+                  "available again', switch to Adaptive, or add an API key so Claude can "
+                  "write new ones.")
+            return False
+        return True
 
     def _build_next(self) -> None:
         sec_i, number, level = self.next_step

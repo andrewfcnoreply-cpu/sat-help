@@ -1,0 +1,148 @@
+{
+  "section": "rw",
+  "questions": [
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• The Halden Opera House was completed in 1912.\n• It was built to host performances for the city's wealthy residents.\n• The Halden Community Theater was completed in 1974.\n• It was built to offer low-cost performances for all residents.\n• Both buildings were designed by the architecture firm Lund & Berg.",
+      "question": "The student wants to contrast the purposes of the two buildings. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Whereas the Halden Opera House was built to host performances for the city's wealthy residents, the Halden Community Theater was built to offer low-cost performances for all residents.", "The Halden Opera House and the Halden Community Theater were both designed by Lund & Berg.", "The Halden Opera House was completed in 1912, and the Halden Community Theater was completed in 1974.", "The Halden Community Theater, designed by Lund & Berg, offers low-cost performances."], "answer": "A",
+      "explain": "Only the first choice compares the two buildings' purposes (wealthy residents versus everyone) with a contrast word. The second gives a similarity, the third contrasts dates rather than purposes, and the fourth describes just one building."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• Biochar is a charcoal-like material made by heating plant waste with very little oxygen.\n• Soil scientist Ji-woo Han added biochar to experimental farm plots.\n• During dry periods, plots with biochar held 20% more water than plots without it.\n• Han concluded that biochar could help crops survive droughts.",
+      "question": "The student wants to present Han's conclusion to an audience unfamiliar with biochar. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Han concluded that biochar, a charcoal-like material made by heating plant waste with very little oxygen, could help crops survive droughts.", "During dry periods, Han's plots with biochar held 20% more water than plots without it.", "Biochar is a charcoal-like material made by heating plant waste with very little oxygen.", "Soil scientist Ji-woo Han added biochar to experimental farm plots."], "answer": "A",
+      "explain": "The goal needs Han's conclusion plus an explanation of biochar for new readers; only the first choice has both. The second gives a finding, not the conclusion, the third defines biochar without the conclusion, and the fourth describes the method."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• In 1947, shepherds discovered ancient scrolls in caves near the Dead Sea.\n• The collection, known as the Dead Sea Scrolls, includes hundreds of manuscripts.\n• Among them are copies of books of the Hebrew Bible.\n• These copies are about 1,000 years older than the oldest copies previously known.",
+      "question": "The student wants to emphasize the scrolls' importance for scholars studying the history of the Hebrew Bible. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["The Dead Sea Scrolls include copies of books of the Hebrew Bible about 1,000 years older than any previously known.", "In 1947, shepherds discovered ancient scrolls in caves near the Dead Sea.", "The Dead Sea Scrolls are a collection of hundreds of manuscripts.", "The Dead Sea Scrolls were found in caves near the Dead Sea by shepherds."], "answer": "A",
+      "explain": "Copies about 1,000 years older than any known before let scholars see a much earlier stage of the texts, which is why they matter. The other choices describe the discovery or the size of the collection without showing why scholars of the Hebrew Bible value them."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• Marine biologist Keola Akana studies humpback whale songs.\n• She wanted to know whether new song patterns spread between whale populations in different regions.\n• She recorded songs near Hawaii and in the South Pacific over ten years.\n• New song patterns appeared first in the South Pacific and later near Hawaii.",
+      "question": "The student wants to introduce Akana and the question her research addressed. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Marine biologist Keola Akana set out to learn whether new humpback whale song patterns spread between populations in different regions.", "New humpback whale song patterns appeared first in the South Pacific and later near Hawaii.", "Over ten years, Keola Akana recorded humpback whale songs near Hawaii and in the South Pacific.", "Humpback whales in different regions sing songs, according to a marine biologist."], "answer": "A",
+      "explain": "The goal asks for Akana plus her research question, and the first choice gives both. The second gives the finding, the third the method, and the fourth names neither Akana nor her question."
+    },
+    {
+      "skill": "Rhetorical Synthesis", "diff": "hard",
+      "passage": "@notes\n• Traditional archaeological surveys often require digging test pits by hand.\n• LiDAR is a technology that uses laser pulses fired from aircraft to map the ground's surface.\n• LiDAR can detect structures hidden beneath dense forest canopy.\n• In 2018, LiDAR surveys in Guatemala revealed tens of thousands of previously unknown Maya structures.",
+      "question": "The student wants to emphasize an advantage of LiDAR over traditional surveys. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": ["Unlike traditional surveys, which often require digging test pits by hand, LiDAR maps the ground from aircraft and can detect structures hidden beneath dense forest canopy.", "In 2018, LiDAR surveys in Guatemala revealed tens of thousands of previously unknown Maya structures.", "LiDAR is a technology that uses laser pulses fired from aircraft to map the ground's surface.", "Traditional archaeological surveys often require digging test pits by hand."], "answer": "A",
+      "explain": "An advantage 'over traditional surveys' requires a comparison, and only the first choice compares the two methods. The second shows a LiDAR success without mentioning traditional surveys, the third only defines LiDAR, and the fourth describes only the traditional method."
+    },
+
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "The committee had expected the new policy to reduce paperwork for employees. ______ the policy's reporting requirements doubled the number of forms employees had to complete each month.",
+      "question": "@transition",
+      "choices": ["Instead,", "Moreover,", "Thus,", "Specifically,"], "answer": "A",
+      "explain": "The result was the opposite of what was expected, so 'Instead' fits. 'Moreover' adds a similar point, 'Thus' signals a result of the expectation, and 'Specifically' introduces details of the same idea."
+    },
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "The novelist's prose is famously spare: she rarely uses adjectives and almost never uses adverbs. ______ she trusts nouns and verbs alone to carry the weight of her descriptions.",
+      "question": "@transition",
+      "choices": ["In other words,", "Nevertheless,", "In contrast,", "Subsequently,"], "answer": "A",
+      "explain": "The second sentence restates the first in a different way: avoiding adjectives and adverbs means relying on nouns and verbs. 'In other words' signals a restatement. 'Nevertheless' and 'In contrast' signal opposition, and 'Subsequently' signals a later event."
+    },
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "Critics complained that the documentary's three-hour running time was excessive. ______ according to audience surveys, few viewers who watched it to the end regretted the time they had spent.",
+      "question": "@transition",
+      "choices": ["Still,", "Accordingly,", "Similarly,", "Namely,"], "answer": "A",
+      "explain": "The second sentence admits the complaint but offers a counterpoint: viewers didn't regret it. 'Still' introduces a point that holds despite what came before. 'Accordingly' signals a result, 'Similarly' signals agreement, and 'Namely' introduces a specific example."
+    },
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "The museum's new wing was designed to use as little energy as possible. ______ its roof is covered with solar panels, and its windows use triple-layered glass that reduces heat loss in winter.",
+      "question": "@transition",
+      "choices": ["Specifically,", "However,", "Consequently,", "Previously,"], "answer": "A",
+      "explain": "The second sentence gives particular features that carry out the energy-saving design, so 'Specifically' fits. 'However' signals contrast, 'Consequently' would make the features a result of the goal rather than details of it, and 'Previously' places them earlier in time."
+    },
+    {
+      "skill": "Transitions", "diff": "hard",
+      "passage": "To study the cave, researchers first mapped its main chamber with laser scanners. ______ they sent a small robot into the narrow side passages, which were too tight for people to enter.",
+      "question": "@transition",
+      "choices": ["Next,", "Conversely,", "Nonetheless,", "For instance,"], "answer": "A",
+      "explain": "'First' sets up a sequence of steps, so the following step needs a sequence word: 'Next.' 'Conversely' and 'Nonetheless' signal contrast, and sending the robot isn't an example of mapping the chamber, so 'For instance' doesn't fit."
+    },
+
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "The novel's narrator—a retired lighthouse keeper who speaks only to his ______ turns out to be the most reliable voice in the book.",
+      "question": "@conventions",
+      "choices": ["cat—", "cat,", "cat", "cat;"], "answer": "A",
+      "explain": "The phrase describing the narrator begins with a dash, so it must end with a dash too. A comma, no punctuation, or a semicolon would leave the opening dash unmatched and blur where the interruption ends."
+    },
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "Rachel Carson's 1962 book <i>Silent Spring</i> made a startling ______ the widespread use of pesticides such as DDT was harming birds and other wildlife.",
+      "question": "@conventions",
+      "choices": ["claim:", "claim, that", "claim,", "claim"], "answer": "A",
+      "explain": "The second part explains what the claim was, and a colon can introduce an explanation after a complete sentence. 'Claim, that' wrongly puts a comma before a 'that' clause the sentence needs. A comma alone creates a comma splice, and no punctuation creates a run-on."
+    },
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "The conference featured speakers from Lagos, ______ Lima, Peru; and Manila, Philippines.",
+      "question": "@conventions",
+      "choices": ["Nigeria;", "Nigeria,", "Nigeria:", "Nigeria"], "answer": "A",
+      "explain": "Each item in this list already contains a comma (city, country), so the items are separated by semicolons, as between 'Peru' and 'and Manila.' A comma would make the list confusing, a colon doesn't separate list items, and no punctuation runs two items together."
+    },
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "The ______ who had spent four months collecting ice samples in Antarctica, presented their findings at the conference in Geneva.",
+      "question": "@conventions",
+      "choices": ["researchers,", "researchers", "researchers;", "researchers—"], "answer": "A",
+      "explain": "'Who had spent four months collecting ice samples in Antarctica' is extra information closed off by a comma after 'Antarctica,' so it needs a matching comma before it. No punctuation leaves the closing comma unpaired, a semicolon would split the subject from its verb, and a dash can't pair with a comma."
+    },
+    {
+      "skill": "Boundaries", "diff": "hard",
+      "passage": "Historian Kenji Mori argues that the most important effect of the railroad on rural ______ was not economic but social: it allowed families separated by distance to visit one another regularly.",
+      "question": "@conventions",
+      "choices": ["Japan", "Japan,", "Japan;", "Japan:"], "answer": "A",
+      "explain": "The subject is 'the most important effect of the railroad on rural Japan,' and its verb is 'was.' No punctuation should come between a subject and its verb, so no punctuation is correct. A comma, semicolon, or colon would separate them."
+    },
+
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "Among the artifacts recovered from the sunken merchant ship ______ a bronze astrolabe and a set of brass navigational instruments.",
+      "question": "@conventions",
+      "choices": ["were", "was", "is", "has been"], "answer": "A",
+      "explain": "The sentence is inverted: its subject comes after the verb. The subject is 'a bronze astrolabe and a set of brass navigational instruments,' two things joined by 'and,' so it's plural and takes 'were.' The other choices are singular."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "When the orchestra announced ______ new season, it highlighted works by composers whose music had never before been performed in the city.",
+      "question": "@conventions",
+      "choices": ["its", "their", "it's", "they're"], "answer": "A",
+      "explain": "The pronoun refers to 'the orchestra,' which is singular (as the later 'it' confirms), so the singular possessive 'its' is correct. 'Their' is plural, 'it's' means 'it is,' and 'they're' means 'they are.'"
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "Over the past decade, the city ______ more than 200 kilometers of protected bike lanes, and the number of residents who cycle to work has nearly tripled.",
+      "question": "@conventions",
+      "choices": ["has built", "will build", "building", "to build"], "answer": "A",
+      "explain": "'Over the past decade' describes an action that started in the past and continues to the present, which calls for the present perfect 'has built' (matching 'has nearly tripled'). 'Will build' is future, and 'building' and 'to build' can't serve as the main verb of a sentence."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "Having analyzed thousands of hours of underwater recordings, ______",
+      "question": "@conventions",
+      "choices": ["the researchers concluded that the whales' songs change gradually over several years.", "the whales' songs were found to change gradually over several years.", "it was concluded that the whales' songs change gradually over several years.", "the conclusion of the researchers was that the whales' songs change gradually over several years."], "answer": "A",
+      "explain": "The opening phrase describes whoever analyzed the recordings, so that person or group must come right after the comma: 'the researchers.' The other choices put 'the whales' songs,' 'it,' or 'the conclusion' there, which suggests the songs or the conclusion did the analyzing."
+    },
+    {
+      "skill": "Form, Structure, and Sense", "diff": "hard",
+      "passage": "The two ______ findings, though published separately, point to the same conclusion about how the virus first spread.",
+      "question": "@conventions",
+      "choices": ["laboratories'", "laboratory's", "laboratories", "laboratorys'"], "answer": "A",
+      "explain": "The findings belong to two laboratories, so the plural possessive 'laboratories'' is needed. 'Laboratory's' refers to one laboratory, 'laboratories' isn't possessive, and 'laboratorys'' isn't a correct spelling of the plural."
+    }
+  ]
+}
